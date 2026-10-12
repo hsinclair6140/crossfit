@@ -145,6 +145,25 @@ function build(title,cap,goal,times){
   return lines.join('\n');
 }
 const PRESETS=[
+  `# FOTC Wk2 Retest · 4 RFT 10:24
+cap 18:00
+goal 10:24
+0:49  R1  15 Cal Row // 1200 cal/hr, ~1:45/500m, don't go faster
+1:27  R1  15 DB Hang Snatch arm 1 // unbroken, 0:38, then switch
+2:03  R1  15 DB Hang Snatch arm 2 // unbroken, 0:36
+2:36  R1  15 Toes-to-Bar // unbroken, hold the kip
+3:25  R2  15 Cal Row // 1200 cal/hr, ~1:45/500m
+4:03  R2  15 DB Hang Snatch arm 1 // unbroken, 0:38, then switch
+4:39  R2  15 DB Hang Snatch arm 2 // unbroken, 0:36
+5:12  R2  15 Toes-to-Bar // unbroken, halfway check 5:12
+6:01  R3  15 Cal Row // 1200 cal/hr, ~1:45/500m
+6:39  R3  15 DB Hang Snatch arm 1 // unbroken, 0:38, then switch
+7:15  R3  15 DB Hang Snatch arm 2 // unbroken, 0:36
+7:48  R3  15 Toes-to-Bar // unbroken; if you slip, 10 then 5 fast
+8:37  R4  15 Cal Row // 1200 cal/hr, push if you have it
+9:15  R4  15 DB Hang Snatch arm 1 // unbroken, 0:38, then switch
+9:51  R4  15 DB Hang Snatch arm 2 // unbroken, 0:36
+10:24  R4  15 Toes-to-Bar // unbroken, empty the tank`,
   `# FOTC Wk2 · 4 RFT 11:55
 cap 18:00
 goal 11:55
@@ -207,11 +226,11 @@ function parse(text){
 let saved=[];try{saved=JSON.parse(localStorage.getItem('paceclock.saved')||'[]')}catch(e){}
 const persist=()=>{try{localStorage.setItem('paceclock.saved',JSON.stringify(saved))}catch(e){}};
 const allPlans=()=>[...PRESETS.map(t=>({t,pre:true})),...saved.map(t=>({t,pre:false}))];
-let activeText=PRESETS[0];try{const a=localStorage.getItem('paceclock.active.v5');if(a&&parse(a).errs.length===0)activeText=a}catch(e){}
+let activeText=PRESETS[0];try{const a=localStorage.getItem('paceclock.active.v6');if(a&&parse(a).errs.length===0)activeText=a}catch(e){}
 
 let P, running=false, startAt=0, pausedAt=0, pre=0, actual=[], lastIdx=-1, timer=null, wake=null, beeped={};
 function loadPlan(text){
-  P=parse(text).plan; activeText=text; try{localStorage.setItem('paceclock.active.v5',text)}catch(e){}
+  P=parse(text).plan; activeText=text; try{localStorage.setItem('paceclock.active.v6',text)}catch(e){}
   $('pTitle').textContent=P.title;
   $('pSub').textContent=`${fmt(P.cap)} cap${P.goal?' · goal '+P.goal:''} · ${P.segs.length} pieces`;
   doReset();
