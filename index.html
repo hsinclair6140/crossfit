@@ -145,21 +145,21 @@ function build(title,cap,goal,times){
   return lines.join('\n');
 }
 const PRESETS=[
-  `# FOTC Wk3+4 · W3 4:45 · W4 25 BMU
+  `# FOTC Wk3+4 · W3 5:00 · W4 25 BMU
 cap 20:00
-goal W3 4:45 · W4 45 S2O + 25 BMU
+goal W3 5:00 · W4 45 S2O + 25 BMU
 0:40  W3  15 Front Squats 165 // clean the first rep, then unbroken
-2:10  W3  30 Chest-to-Bar // 12 / 10 / 8, 3 breaths between
-3:00  W3  15 Front Squats 165 // unbroken, 10/5 only if needed
-3:50  W3  15 Chest-to-Bar // 8 / 7
-4:45  W3  15 Front Squats 165 // unbroken, empty it
-7:45  Rest  3:00 Mandatory Rest // W4 starts 3:00 after YOUR finish; bar at 135, 10s+5s+clips staged
-8:45  W4  20 S2O 135 // 10 / 10, push press
-9:00  W4  Load 155 // +10 each side, clips on
-10:10  W4  15 S2O 155 // 5 / 5 / 5, push jerk
-10:25  W4  Load 185 // +10 and +5 each side, clips on
-11:40  W4  10 S2O 185 // 5 doubles or quick singles, push jerk
-15:45  W4  Max Bar Muscle-Ups // sets of 3-4, step up every :12, aim 25+`,
+2:20  W3  30 Chest-to-Bar (kipping) // 8 / 8 / 7 / 7, 3 breaths between, break before failure
+3:10  W3  15 Front Squats 165 // unbroken, 10/5 only if needed
+4:05  W3  15 Chest-to-Bar (kipping) // 5 / 5 / 5, quick breaks
+5:00  W3  15 Front Squats 165 // unbroken, empty it
+8:00  Rest  3:00 Mandatory Rest // W4 starts 3:00 after YOUR finish; bar at 135, 10s+5s+clips staged
+9:00  W4  20 S2O 135 // 10 / 10, push press
+9:15  W4  Load 155 // +10 each side, clips on
+10:25  W4  15 S2O 155 // 5 / 5 / 5, push jerk
+10:40  W4  Load 185 // +10 and +5 each side, clips on
+11:55  W4  10 S2O 185 // 5 doubles or quick singles, push jerk
+16:00  W4  Max Bar Muscle-Ups // sets of 3-4, step up every :12, aim 25+`,
   `# FOTC Wk2 Retest · 4 RFT 10:24
 cap 18:00
 goal 10:24
@@ -241,11 +241,11 @@ function parse(text){
 let saved=[];try{saved=JSON.parse(localStorage.getItem('paceclock.saved')||'[]')}catch(e){}
 const persist=()=>{try{localStorage.setItem('paceclock.saved',JSON.stringify(saved))}catch(e){}};
 const allPlans=()=>[...PRESETS.map(t=>({t,pre:true})),...saved.map(t=>({t,pre:false}))];
-let activeText=PRESETS[0];try{const a=localStorage.getItem('paceclock.active.v7');if(a&&parse(a).errs.length===0)activeText=a}catch(e){}
+let activeText=PRESETS[0];try{const a=localStorage.getItem('paceclock.active.v8');if(a&&parse(a).errs.length===0)activeText=a}catch(e){}
 
 let P, running=false, startAt=0, pausedAt=0, pre=0, actual=[], lastIdx=-1, timer=null, wake=null, beeped={};
 function loadPlan(text){
-  P=parse(text).plan; activeText=text; try{localStorage.setItem('paceclock.active.v7',text)}catch(e){}
+  P=parse(text).plan; activeText=text; try{localStorage.setItem('paceclock.active.v8',text)}catch(e){}
   $('pTitle').textContent=P.title;
   $('pSub').textContent=`${fmt(P.cap)} cap${P.goal?' · goal '+P.goal:''} · ${P.segs.length} pieces`;
   doReset();
