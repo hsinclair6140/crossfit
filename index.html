@@ -242,8 +242,29 @@ function parse(text){
 // saved plans (this browser only)
 let saved=[];try{saved=JSON.parse(localStorage.getItem('paceclock.saved')||'[]')}catch(e){}
 const persist=()=>{try{localStorage.setItem('paceclock.saved',JSON.stringify(saved))}catch(e){}};
-const allPlans=()=>[...PRESETS.map(t=>({t,pre:true})),...saved.map(t=>({t,pre:false}))];
+const allPlans=()=>{const seen=new Set();return [...live.map(t=>({t,pre:'Live'})),...saved.map(t=>({t,pre:'Saved'})),...PRESETS.map(t=>({t,pre:'Built in'}))].filter(p=>!seen.has(p.t)&&seen.add(p.t))};
 let activeText=PRESETS[0];try{const a=localStorage.getItem('paceclock.active.v9');if(a&&parse(a).errs.length===0)activeText=a}catch(e){}
+
+// Live plans: read plans.txt straight from the repo through the GitHub API, so a new plan shows up
+// without waiting for a Pages rebuild. Cached for offline use. Plan links (#plan=...) load a plan with no deploy at all.
+const LIVE_URL='https://api.github.com/repos/hsinclair6140/pace-clock/contents/plans.txt?ref=main';
+let live=[];try{live=JSON.parse(localStorage.getItem('paceclock.live')||'[]')}catch(e){}
+const splitPlans=txt=>txt.split(/^\s*---\s*$/m).map(t=>t.split(/\r?\n/).filter(l=>!/^#\s*Live plans|^#\s*Editing this file/.test(l)).join('\n').trim()).filter(t=>t&&parse(t).errs.length===0);
+async function fetchLive(){
+  try{const r=await fetch(LIVE_URL,{cache:'no-store',headers:{Accept:'application/vnd.github.raw'}});if(!r.ok)throw new Error(r.status);
+    const got=splitPlans(await r.text());if(!got.length)return;
+    const seen=(()=>{try{return localStorage.getItem('paceclock.liveTop')}catch(e){return null}})();
+    live=got;try{localStorage.setItem('paceclock.live',JSON.stringify(live));localStorage.setItem('paceclock.liveTop',live[0])}catch(e){}
+    // A new top plan was published: switch to it, unless a workout is in progress.
+    if(live[0]!==seen&&!fromLink&&!running&&elapsed()===0&&pre<=0)loadPlan(live[0]);
+    if($('dlg').open)renderPlans();
+  }catch(e){}
+}
+const b64u={enc:t=>btoa(String.fromCharCode(...new TextEncoder().encode(t))).replace(/\+/g,'-').replace(/\//g,'_').replace(/=+$/,''),
+  dec:s=>new TextDecoder().decode(Uint8Array.from(atob(s.replace(/-/g,'+').replace(/_/g,'/')),c=>c.charCodeAt(0)))};
+function planFromHash(){const m=location.hash.match(/plan=([A-Za-z0-9_-]+)/);if(!m)return null;
+  try{const t=b64u.dec(m[1]).trim();if(parse(t).errs.length)return null;
+    saved=[t,...saved.filter(x=>x!==t)].slice(0,20);persist();history.replaceState(null,'',location.pathname+location.search);return t}catch(e){return null}}
 
 let P, running=false, startAt=0, pausedAt=0, pre=0, actual=[], lastIdx=-1, timer=null, wake=null, beeped={};
 function loadPlan(text){
@@ -390,7 +411,7 @@ $('copy').onclick=async()=>{
 function renderPlans(){
   $('planList').innerHTML='';
   allPlans().forEach(({t,pre},k)=>{const p=parse(t).plan;const b=document.createElement('button');b.className='plan'+(t===activeText?' on':'');
-    b.innerHTML=`<div><div>${esc(p.title)}</div><span>${fmt(p.cap)} cap${p.goal?' · '+esc(p.goal):''}</span></div><span>${pre?'Built in':'Saved'}</span>`;
+    b.innerHTML=`<div><div>${esc(p.title)}</div><span>${fmt(p.cap)} cap${p.goal?' · '+esc(p.goal):''}</span></div><span>${pre}</span>`;
     b.onclick=()=>{if(running)stop(false);loadPlan(t);$('dlg').close()};$('planList').appendChild(b)});
 }
 $('openPlans').onclick=()=>{renderPlans();$('err').textContent='';$('dlg').showModal()};
@@ -399,7 +420,10 @@ $('load').onclick=()=>{const t=$('paste').value.trim();const {errs}=parse(t);
   if(errs.length){$('err').textContent=errs[0];return}
   saved=[t,...saved.filter(x=>x!==t)].slice(0,20);persist();if(running)stop(false);loadPlan(t);$('paste').value='';$('dlg').close()};
 
-loadPlan(activeText);
+let fromLink=planFromHash();
+loadPlan(fromLink||activeText);
+fetchLive().then(()=>{});
+window.addEventListener('hashchange',()=>{const t=planFromHash();if(t&&!running){fromLink=t;loadPlan(t)}});
 </script>
 
 </body></html>
