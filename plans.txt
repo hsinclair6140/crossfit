@@ -1,21 +1,21 @@
 # Live plans for the Pace Clock. Separate plans with a line of ---. The first plan loads by default.
 # Editing this file updates the clock within seconds; no Pages rebuild needed.
 ---
-# FOTC Wk3 · For Time 5:00
+# FOTC Wk3 retest · For Time 6:00
 cap 9:00
-goal 5:00
-0:40  W3  15 Front Squats 165 // squat clean = rep 1, then unbroken
-2:20  W3  30 Chest-to-Bar (kipping) // 8 / 8 / 7 / 7, 3 breaths between, break before failure
-3:10  W3  15 Front Squats 165 // unbroken, 10/5 only if needed
-4:05  W3  15 Chest-to-Bar (kipping) // 5 / 5 / 5, quick breaks
-5:00  W3  15 Front Squats 165 // unbroken, empty it. Then 3:00 rest: bar to 135, stage 10s+5s+clips
+goal 6:00
+0:45  W3  15 Front Squats 165 // squat clean = rep 1, unbroken, smooth
+2:55  W3  30 Chest-to-Bar (kipping) // 6/6/6/6/6, 4 breaths between
+3:50  W3  15 Front Squats 165 // 3 breaths first, then unbroken
+5:05  W3  15 Chest-to-Bar (kipping) // 5/5/5, 5 breaths between
+6:00  W3  15 Front Squats 165 // unbroken. Rest: walk, nose breathe, bar to 135
 ---
-# FOTC Wk4 · 45 S2O + 25 BMU
+# FOTC Wk4 retest · through 185 + 10 BMU
 cap 8:00
-goal 45 S2O + 25 BMU
-1:00  W4  20 S2O 135 // 10 / 10, push press; clean from the floor each set
-1:15  W4  Load 155 // +10 each side, clips on
-2:25  W4  15 S2O 155 // 5 / 5 / 5, push jerk
-2:40  W4  Load 185 // +10 and +5 each side, clips on
-3:55  W4  10 S2O 185 // 5 doubles or quick singles, push jerk
-8:00  W4  Max Bar Muscle-Ups // sets of 3-4, step up every :12, aim 25+
+goal 45 S2O + 10 BMU
+1:30  W4  20 S2O 135 // 5/5/5/5, drop, 10s rest, go
+1:45  W4  Load 155 // +10 each side, clips on
+3:10  W4  15 S2O 155 // 5/5/5, 15-20s rest. 3s only if a 5 is failing
+3:25  W4  Load 185 // +10 and +5 each side, clips on
+6:25  W4  10 S2O 185 // singles, one every :18. Jerk it, don't press it
+8:00  W4  Max Bar Muscle-Ups // 3/3/2/2 for 10, then keep going
