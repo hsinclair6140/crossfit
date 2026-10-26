@@ -1,6 +1,18 @@
 # Live plans for the Pace Clock. Separate plans with a line of ---. The first plan loads by default.
 # Editing this file updates the clock within seconds; no Pages rebuild needed.
 ---
+# FOTC Wk5 · For Time 8:00
+cap 12:00
+goal 8:00
+0:50  R1  21 Deadlifts 225 // unbroken, touch and go. 11/10 if grip fades
+1:53  R1  21 Box Jump Overs 24 // steady step-offs, don't sprint
+3:33  R1  50' Handstand Walk // 5 x 10', 10s rest flat on the floor every time
+4:18  R2  15 Deadlifts 225 // shake arms, then unbroken
+5:06  R2  15 Box Jump Overs 24 // same rhythm
+6:56  R2  50' Handstand Walk // 5 x 10', 12s rest. Go to 5' stints if shaky
+7:28  R3  9 Deadlifts 225 // unbroken, fast
+8:00  R3  9 Box Jump Overs 24 // empty the tank
+---
 # FOTC Wk3 retest · For Time 6:00
 cap 9:00
 goal 6:00
