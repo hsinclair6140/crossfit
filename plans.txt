@@ -4,9 +4,9 @@
 # FOTC Wk5 · For Time 8:00
 cap 12:00
 goal 8:00
-0:50  R1  21 Deadlifts 225 // unbroken, touch and go. 11/10 if grip fades
+0:50  R1  21 Deadlifts 225 // unbroken, plates touch each rep, NO bounce. 11/10 if grip fades
 1:53  R1  21 Box Jump Overs 24 // steady step-offs, don't sprint
-3:33  R1  50' Handstand Walk // 5 x 10', 10s rest flat on the floor every time
+3:33  R1  50' Handstand Walk // 5 x 10', 10s rest. Whole hand past each 5' line before feet drop
 4:18  R2  15 Deadlifts 225 // shake arms, then unbroken
 5:06  R2  15 Box Jump Overs 24 // same rhythm
 6:56  R2  50' Handstand Walk // 5 x 10', 12s rest. Go to 5' stints if shaky
