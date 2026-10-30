@@ -1,0 +1,444 @@
+date,kind,name,lift,load_lb,reps,score,unit,est_1rm,detail
+2024-08-26,benchmark,Isabel (30 snatch @135),,135,30,3:47,time,,Paced 4:00 plan
+2024-08-27,metcon,20 min AMRAP Echo Bike cals,,,278,278,cals,,12.53 km; 70->62 RPM
+2024-08-28,benchmark,Grace (30 C&J @135),,135,30,2:36,time,,Low back stiff after C&J PR prior week
+2024-09-03,benchmark,Diane (21-15-9 DL 225 / HSPU),,225,,DNF time not recorded,note,,Crashed; HSPU 11/5/5 then 2-3s
+2024-09-04,gymnastics,Max UB toes-to-bar,,,,22,reps,,
+2024-09-04,gymnastics,Max UB pull-ups,,,,32,reps,,22 butterfly + 10 kipping
+2024-09-05,benchmark,Holleyman (30 RFT 5 WB/3 HSPU/1 PC @205),,205,,33:03,time,,Under-fueled
+2024-09-06,lift,Bench press 5RM,Bench press,185,5,185,lb,216,Barely made last rep
+2024-09-06,erg,2000m row,,,,7:06,time,,
+2024-09-09,benchmark,DT (5 RFT 12 DL/9 HPC/6 PJ @155),,155,,8:01,time,,"Planned 1:30/rd, slipped to ~1:45"
+2024-09-10,gymnastics,30 bar muscle-ups for time,,,,3:31,time,,Planned 10x3
+2024-09-11,benchmark,Open 19.2,,,,170,reps,,5 reps at 185 cleans; did not finish 8-min window
+2024-09-12,gymnastics,For time: 5 wall-facing HSPU / 10 strict HSPU / 20 kipping HSPU,,,,6:18,time,,Strict HSPU singles
+2024-09-13,benchmark,Karen (150 wall balls 20lb),,20,150,7:12,time,,18-17-16... descending sets
+2024-09-16,metcon,C&J ladder for time 10@135/8@155/6@175/4@195/2@205,,,,8:33,time,,HR 187; missed 205 once
+2024-09-16,lift,Front squat 4 @ 80% (1RM ref 275),Front squat,220,4,,lb,249,Reference 1RM 275
+2024-09-17,lift,Bench max reps @65%,Bench press,140,20,,reps,,Reference 1RM 216
+2024-09-17,erg,4x1000m row (2:00 rest),,,,3:36/3:32/3:34/3:34,time,,~1:47/500m
+2024-09-18,lift,Strict press reference 1RM (guess),,135,1,,ref,,Coach % base
+2024-09-18,lift,"Deadlift cluster work (ref 1RM 455 too heavy, dropped to 400)",Deadlift,,,400,ref,,
+2024-09-18,metcon,AMRAP 10: 30 air squats / 10 cal bike erg,,,,7+1,rounds+reps,,
+2024-09-19,metcon,40-30-20-10 TTB / burpee box jump over 24in,,,,16:00,time,,TTB limiter
+2024-09-20,metcon,Snatch ladder for time 10@95/8@115/6@135/4@155/2@175,,,,6:43,time,,Squat snatched 175 (former 1RM)
+2024-09-20,lift,Snatch (squat),Snatch (squat),175,1,,lb,175,This was my 1RM a year ago
+2024-09-20,lift,Back squat 4 @ 80% (ref 1RM 325),Back squat,260,4,,lb,295,
+2024-09-20,metcon,7 RFT: 300m row / 5 UB BMU,,,,13:43,time,,~2:00 rounds
+2024-09-23,lift,Power clean & jerk 3x5 @70% (ref 1RM 240),,170,5,,lb,,C&J 1RM reference 240
+2024-09-23,lift,Front squat 6 @ 80%,Front squat,220,6,,lb,264,
+2024-09-23,metcon,AMRAP 16: 200m run / 15 C2B / 15 push press 115,,,,4 rds + 145m,rounds+reps,,C2B limiter
+2024-09-24,lift,Bench max reps @68%,Bench press,145,15,,reps,,
+2024-09-24,erg,10x250m row @1:45 pace (0:45 rest),,,,15:43,time,,~53s each
+2024-09-25,lift,Strict press max reps @68%,Strict press,105,9,,reps,136,
+2024-09-25,lift,Deadlift cluster 5 @ 330,Deadlift,330,5,,lb,330,375 too heavy
+2024-09-25,metcon,10-1 Echo cals / TTB,,,,6:55,time,,
+2024-09-25,gymnastics,GHD Sorensen hold max,,,,1:30,time,,
+2024-09-26,metcon,6 rds 1:00 DB hang squat clean 50s / lat burpee / DU / rest,,,,"13/15/90,15/15/80,12/12/91,12/12/90,12/12/89,12/12/85",reps,,
+2024-09-27,lift,Snatch 3x5 @70%,,135,5,,lb,,
+2024-09-27,lift,Back squat 6 @ 80%,Back squat,260,6,,lb,312,
+2024-09-27,metcon,AMRAP 12: 12 BJO 30in / 8 UB KHSPU / 12 row cal,,,,6 rds + 12,rounds+reps,,
+2024-09-30,metcon,C&J 4x10 (135/155/175/195) w/ 1:00 rest,,,,9:22,time,,Did 155 in rd2
+2024-09-30,lift,Front squat 6 @ 85%,Front squat,235,5,,lb,274,5/6
+2024-09-30,metcon,5 sets: 300m run/15 cal echo/200m run/12 cal echo,,,,30:31,time,,4:24/4:36/4:38/4:33/4:20
+2024-10-01,lift,Bench max reps @72% (ref 1RM 225),Bench press,162,11,,reps,,
+2024-10-01,erg,3x1500m row,,,,1:47.2/1:48.8/1:50.4,pace/500m,,
+2024-10-02,lift,Strict press max reps @72%,Strict press,115,7,,reps,142,
+2024-10-02,lift,Deadlift cluster 5 @ 340,Deadlift,340,5,,lb,340,ref 1RM 400
+2024-10-02,metcon,4 sets 20 FS 45 / 15 WB / 1:00 max bike erg cals,,,,71,cals,,18/17/17/19
+2024-10-02,gymnastics,10 rope climbs for time,,,,5:05,time,,
+2024-10-03,metcon,AMRAP 25: 2-4-6... TTB / HPC 135 / box jump 24,,,,22 rounds + 17 HPC (round 22),rounds+reps,,Score ambiguous as written
+2024-10-04,metcon,Snatch 4x10 (95/115/135/155) w/ 1:00 rest,,,,10:47,time,,
+2024-10-04,lift,Back squat 6 @ 85%,Back squat,275,6,,lb,330,Barely
+2024-10-04,metcon,5 RFT: 300m row / 12 thrusters 95 / 12 pull-ups,,,,12:50,time,,
+2024-10-07,lift,Bench max reps @74%,Bench press,170,10,,reps,227,
+2024-10-07,erg,15x125m row @1:40-1:42,,,,~1:40.8 avg,pace/500m,,
+2024-10-08,metcon,C&J ladder 8@155/6@165/4@185/2@205/1@225,,,,DNF,note,,Failed 225; PC+PJ 205
+2024-10-08,lift,Front squat 6 @ 85%,Front squat,235,5,,lb,274,missed last rep again
+2024-10-08,metcon,AMRAP 12: 8 shuttle / 8 UB HSPU / 8 HPC 115,,,,6 rds + 1,rounds+reps,,
+2024-10-09,lift,Strict press max reps @74%,Strict press,120,7,,reps,148,
+2024-10-09,lift,Deadlift cluster 3 @ 350,Deadlift,350,3,,lb,350,
+2024-10-10,lift,Back squat 6 @ 85%,Back squat,280,5,,lb,327,5/6
+2024-10-10,metcon,On 5:00 x3: 500m ski + 5+5 UB BMU,,,,3:04/3:07/3:13,time,,
+2024-10-10,metcon,Snatch ladder 8@115/6@135/4@155/2@175/1@180,,,,DNF (failed 175),note,,
+2024-10-11,metcon,10 RFT: 10 burpee to target / 10 TTB,,,,14:14,time,,Coach: sub-11 is good; TTB limiter
+2024-10-14,lift,Bench max reps @70%,Bench press,160,12,,reps,,
+2024-10-14,erg,3000m row (low intensity),,,,11:20,time,,1:53.5/500m
+2024-10-15,lift,Power clean & jerk EMOM 2 @205,,205,2,,lb,,
+2024-10-15,lift,Front squat 4 @ 90%,Front squat,245,4,,lb,278,
+2024-10-16,lift,Strict press max reps @70%,Strict press,112,8,,reps,142,
+2024-10-16,metcon,3 sprint sets 1:00 Echo cal / 1:00 air squat,,,,"21/42, 22/44, 23/45",reps,,
+2024-10-17,lift,Snatch 1:00 AMRAP @135,,135,9,,reps,,
+2024-10-17,lift,Back squat 4 @ 90%,Back squat,290,4,,lb,329,
+2024-10-17,metcon,5 RFT: 10 FS 95 / 15 pull-ups / 60 DU,,,,8:55,time,,
+2024-10-18,metcon,Chipper 50 WB/C2B/Echo/BJO/TTB/Echo,,,,DNF (13:28 through BJO),note,,Ran out of time
+2024-10-21,lift,Bench max reps @78%,Bench press,175,10,,reps,233,
+2024-10-21,erg,3x1000m row,,,,3:31/3:34/3:34,time,,
+2024-10-22,lift,Power C&J 90s AMRAP @135/175/205,,,,15/11/5,reps,,
+2024-10-22,lift,Front squat 2 @ 95%,Front squat,260,2,,lb,277,
+2024-10-22,metcon,5 RFT: run/TTB/run/HPS 85/run/DB box step-over,,,,16:26,time,,
+2024-10-23,lift,Strict press max reps @78%,Strict press,125,6,,reps,150,
+2024-10-23,metcon,3 sets: 10 BJ 30in / 20 cal Echo / 30 UB thrusters 45,,,,12:49,time,,
+2024-10-24,lift,Snatch 90s AMRAP @135/145/155,,,,10/8/7,reps,,
+2024-10-24,lift,Back squat 3 @ 90%,Back squat,292,3,,lb,321,0 reps at 95%
+2024-10-24,metcon,5 rds: 12 bike erg cal / 12 burpees / max UB KHSPU,,,,34 (10/6/6/6/6),reps,,
+2024-10-25,erg,10 rds 1:00 Echo/Row/Ski cal + 1:00 rest,,,,482,cals,,~15/16/17 per round
+2024-10-28,lift,Bench max reps @80%,Bench press,180,10,,reps,240,
+2024-10-29,metcon,C&J for time 10@135/10@155/10@175,,,,4:08,time,,
+2024-10-29,lift,Front squat 3x10 @ 68%,Front squat,187,10,,lb,249,
+2024-10-29,metcon,10-20-40-60-80-60-40-20-10 UB DU + 300m run each,,,,20:26,time,,All UB
+2024-10-30,lift,Strict press max reps @80%,Strict press,130,5,,reps,152,Right shoulder pain
+2024-10-30,metcon,AMRAP 15: 20 lunge / 15 DB thruster 35s / 10 bike erg cal,,,,7+27,rounds+reps,,
+2024-10-31,metcon,Snatch for time 10@115/10@135/10@145,,,,5:01,time,,
+2024-10-31,metcon,3 RFT: 3 BMU / 10 DB push press 50s,,,,1:49,time,,
+2024-10-31,metcon,3 RFT: 12 C2B / 8 KHSPU,,,,10:18,time,,
+2024-11-01,metcon,6 sets: 300m ski / 20 V-up / 300m row / 15 PC 95 (1:00 rest),,,,27:15,time,,
+2024-11-04,lift,Bench press 5RM,Bench press,205,5,205,lb,239,No spot; up from 185 on 9/6
+2024-11-04,erg,2000m row,,,,6:49.5,time,,PR (was 7:06); held 1:44
+2024-11-05,lift,Power C&J 3x8 UB @135,,135,8,5:11,time,,
+2024-11-05,lift,Front squat 5RM,Front squat,245,5,245,lb,286,Coach: 5-10 lb left
+2024-11-05,metcon,EMOM 12: 150m run,,,,42-45 s each,time,,
+2024-11-06,lift,Strict press 4x5 @78%,Strict press,125,5,,lb,146,
+2024-11-06,metcon,20 min AMRAP Echo Bike cals,,,306,306,cals,,Retest PR (was 278)
+2024-11-07,lift,Power snatch 3x5 UB @135,,135,5,,lb,,21/20/18 s per set
+2024-11-07,lift,Back squat 5RM,Back squat,265,5,265,lb,309,~10 lb left
+2024-11-07,metcon,5 RFT: 300m row / 50 DU / 5 UB BMU,,,,11:41,time,,
+2024-11-08,benchmark,Karen (150 wall balls 20lb),,20,150,7:01,time,,PR (was 7:12); sets of 10
+2024-11-11,gymnastics,Max UB toes-to-bar,,,,31,reps,,PR (was 22)
+2024-11-11,metcon,5 sets for time: 11 TTB / 50 DU (1:30 rest),,,,1:06/0:58/0:49/0:50/0:48,time,,
+2024-11-12,benchmark,Grace (30 C&J @135),,135,29,~2:10 (29 reps @ 2:05),time,,Miscounted; not a valid 30-rep score
+2024-11-13,benchmark,Holleyman (30 RFT 5 WB/3 HSPU/1 PC @205),,205,,28:53,time,,PR (was 33:03)
+2024-11-14,benchmark,Isabel (30 snatch @135),,135,29,3:38 (29 reps),time,,Miscounted; ~equal to 3:47
+2024-11-15,benchmark,Diane (21-15-9 DL 225 / HSPU),,225,,4:31,time,,PR (prior 4:54 per notes)
+2024-11-18,metcon,4 sets: 300m run/15 PU/300m run/12 HPS 75 (1:00 rest),,,,21:07,time,,
+2024-11-19,metcon,0:30 on/off x8 hang power C&J 95/115/135/155,,,,"11/11,9/9,7/6,5/6",reps,,
+2024-11-20,erg,5 sets x2 rds 1:00 Echo/Row/Ski cal,,,,474,cals,,90/90/95/98/101 per set
+2024-11-21,metcon,0:30 on/off x8 hang squat snatch 75/95/115/135,,,,"11/10,7/7,5/5,4/4",reps,,
+2024-11-21,lift,Zercher squat 3x8,,115,8,,lb,,
+2024-12-02,lift,Bench heavy single,Bench press,220,1,220,lb,220,No spot; stopped
+2024-12-02,lift,Bench max reps @70%,Bench press,155,16,,reps,,
+2024-12-02,metcon,AMRAP 2x5: 9 DB FS 50s / 75 DU / max HSPU,,,,63 HSPU (16/15/13/10/9),reps,,
+2024-12-03,lift,Back squat 1 @ 80%,Back squat,260,1,,lb,260,ref 1RM 325
+2024-12-03,metcon,800/600/400/200m run + 25/20/15/10 power snatch 95,,,,18:59,time,,
+2024-12-04,lift,Pausing jerk 6x3 @60%,Jerk (push/pausing),145,3,,lb,160,Jerk 1RM reference 240
+2024-12-04,lift,Deadlift heavy single,Deadlift,365,1,365,lb,365,Heavier than expected
+2024-12-04,metcon,15-12-9 push jerk 155 / BBJO 30in,,,,7:45,time,,
+2024-12-05,lift,Squat snatch 5RM TnG (in 15:00),Snatch (squat),155,5,155,lb,181,
+2024-12-05,lift,Squat clean 5RM TnG (in 15:00),Squat clean,205,5,205,lb,239,
+2024-12-05,erg,6 sets 1:00 Echo/Row/Echo/Ski cal + rest,,,,404,cals,,
+2024-12-06,metcon,AMRAP 15: 3-6-9... PC 115 / TTB / row cal,,,,219,reps,,
+2024-12-09,lift,Bench heavy single,Bench press,225,1,225,lb,225,
+2024-12-09,lift,Bench max reps @80%,Bench press,180,9,,reps,234,
+2024-12-09,metcon,150 DU/15 BMU/100 DU/10 BMU/50 DU/5 BMU,,,,6:37,time,,Broke 5s/50s
+2024-12-10,lift,Back squat 1 @ 85%,Back squat,275,1,,lb,275,
+2024-12-11,lift,Pausing jerk 5x2,Jerk (push/pausing),155,2,,lb,165,
+2024-12-11,lift,Deadlift heavy triple,Deadlift,365,3,365,lb,402,
+2024-12-11,metcon,4 sets: 12 Echo cal / 9 DL / 6 HPC / 3 PJ @155 (2:00 rest),,,,1:19/1:15/1:15/1:11,time,,
+2024-12-12,lift,Squat snatch 3x1:00 @117,,117,27,,reps,,9/10/8
+2024-12-12,lift,Squat clean 3x1:00 @165,,165,25,,reps,,9/8/8
+2024-12-12,erg,5 sets 2:00 Echo/Row/Ski cal + rest,,,,34-35 per 2:00,cals,,Set 5 cool-down
+2024-12-16,lift,Bench heavy single,Bench press,225,1,225,lb,225,
+2024-12-16,lift,Bench max reps @88%,Bench press,200,5,,reps,233,
+2024-12-16,metcon,3 sets 1:00 BJ/OHS 95/row cal/WB (0:20 rest),,,,241,reps,,Post-illness
+2024-12-17,lift,Back squat 1 @ 90%,Back squat,292,1,,lb,292,
+2024-12-17,lift,Back squat AMRAP @75% tempo,Back squat,245,5,,reps,286,
+2024-12-17,metcon,AMRAP 15: 30 DU / 100m run / 10 UB HPS 85,,,,10 rounds,rounds+reps,,
+2024-12-18,lift,Deadlift heavy 5,Deadlift,335,5,335,lb,391,
+2024-12-18,metcon,3 sets: 18 Echo cal / 12 DL / 9 HPC / 6 PJ @155 (3:00 rest),,,,2:10/1:59/1:53,time,,
+2024-12-26,lift,Power snatch w/5s pull heavy double,,135,2,,lb,,
+2024-12-26,lift,Front squat + back squat heavy 3+3,,245,3,,lb,,
+2024-12-26,metcon,21-15-9 push press 115 / KBS 70 then 10 rope climbs,,,,9:37,time,,
+2024-12-27,metcon,EMOM 18: 0:30 Echo cal / TTB / FS 135,,,,205,reps,,Echo 61 / TTB 84 / FS 60
+2024-12-27,lift,Power clean w/3s pull heavy triple,,185,3,,lb,,
+2024-12-30,lift,Bench heavy single,Bench press,225,1,225,lb,225,Barely
+2024-12-30,metcon,3x AMRAP 3 (thruster 135+WW / OHS 115+RC / HSC 95+burpee),,,,"3+1WW, 2+6, 2+2",rounds+reps,,
+2024-12-30,lift,Power snatch w/5s pull cluster 1.1.1,,135,3,,lb,,
+2024-12-30,lift,Clean pull + power clean 2.2,,225,2,,lb,,
+2025-01-02,metcon,27 squat snatch @117 for time,,117,27,3:54,time,,
+2025-01-02,metcon,25 squat clean @165 for time,,165,25,3:22,time,,
+2025-01-02,erg,3x EMOM 10 alternating machine cals,,,,"65/75, 75/75, 65/75",cals,,
+2025-01-03,lift,Back squat single @92%,Back squat,300,1,,lb,300,
+2025-01-03,metcon,"3-2-1 rounds DB push press/TTB/burpee, devil press/C2B/BJO, thruster/BMU/BBJO",,,,18:16,time,,4:36/5:44/4:01
+2025-01-03,metcon,3x DT round (12 DL/9 HPC/6 PJ @155),,,,1:08/1:00/0:59,time,,
+2025-01-06,lift,Bench 3x10 @72% (ref 230),Bench press,165,10,,lb,220,
+2025-01-06,lift,Power snatch w/5s pull cluster 1.1.1.1,,145,4,,lb,,
+2025-01-07,lift,Back squat single @95%,Back squat,310,1,,lb,310,
+2025-01-07,lift,Back squat AMRAP @80% tempo,Back squat,260,3,,reps,286,
+2025-01-07,metcon,1200m run with EMOM 3 squat cleans 135,,,,8:31,time,,TnG all
+2025-01-08,lift,Pausing jerk 5x2,Jerk (push/pausing),185,2,,lb,197,
+2025-01-08,lift,Deadlift heavy single,Deadlift,365,1,365,lb,365,
+2025-01-08,metcon,"4 sets UB DT-style complexes 7-5-3 + DU, building 95-155",,,,2:49/2:40/2:50/2:57,time,,
+2025-01-09,lift,Squat snatch 5RM TnG,Snatch (squat),155,5,155,lb,181,Failed 160 x3
+2025-01-09,lift,Squat clean 5RM TnG,Squat clean,215,5,215,lb,251,PR (was 205)
+2025-01-09,erg,2x5 rds 1:00 Echo/Row/Ski cal,,,,519,cals,,
+2025-01-10,metcon,AMRAP 10: 2-2-4-4... C2B / wall ball,,,,13 C2B/18 WB level,note,,
+2025-01-10,lift,Deadlift heavy triple,Deadlift,365,3,365,lb,402,
+2025-01-10,lift,Clean pull + power clean (3+1),,205,1,,lb,,
+2025-01-13,lift,Bench heavy single,Bench press,230,1,230,lb,230,PR
+2025-01-13,metcon,AMRAP 1:30 x5: 16 row cal / max thrusters 95,,,,77 (15/15/16/15/16),reps,,
+2025-01-13,lift,Muscle snatch w/5s pull,,120,1,,lb,,
+2025-01-14,lift,Back squat 3x8 @68%,Back squat,225,8,,lb,285,
+2025-01-14,metcon,4 RFT: 300m run / 10 DB devil press 50s / 10 DB FR lunge,,,,14:00,time,,3:31/3:34/3:35/3:18 (sum)
+2025-01-15,lift,Pausing jerk heavy single,Jerk (push/pausing),195,1,195,lb,195,
+2025-01-15,metcon,2 RFT: 27 DL / 21 HPC / 15 PJ @155 (3:00 rest),,,,3:17 / 4:03,time,,
+2025-01-16,lift,Squat snatch 3x1:00 @120 (power),,120,32,,reps,,11/10/11
+2025-01-16,lift,Squat clean 3x1:00 @172,,172,25,,reps,,
+2025-01-16,erg,7 rds 1:00 Echo/Row/Ski cal,,,,354 (7 of 10 rds),cals,,
+2025-01-17,metcon,Chipper: 5000m bike erg/50 PU/40 DB farmers lunge/30 KHSPU/20 DB FS/10 WW,,,,20:40,time,,Bike 10:00
+2025-01-17,lift,Muscle clean w/3s pull,,135,1,,lb,,
+2025-01-20,lift,Bench 6x1 @90%,Bench press,207,1,,lb,207,Missed 230
+2025-01-20,metcon,3 sets: 15 thrusters 95 / 12 bar-facing burpees (1:30 rest),,,,1:02/1:00/1:00,time,,
+2025-01-20,lift,Power snatch w/5s pull heavy double,,135,2,,lb,,
+2025-01-21,gymnastics,40 C2B for time (butterfly practice),,,,not recorded,note,,
+2025-01-21,lift,Back squat 1RM,Back squat,305,1,305,lb,305,Missed 315; all-time best 325 (date unknown)
+2025-01-21,metcon,10 RFT: 200m run / 8 DB lunge 50s / 3 BMU,,,,19:48,time,,
+2025-01-22,lift,Pausing jerk 5x4,Jerk (push/pausing),155,4,,lb,176,
+2025-01-22,lift,Deadlift 5x3,Deadlift,315,3,,lb,346,
+2025-01-22,metcon,5x DT round @155 (2:00 rest),,,,0:43/0:43/0:42/0:43/~0:46,time,,All UB
+2025-01-23,metcon,29 squat snatch @120 for time,,120,29,4:07,time,,
+2025-01-23,metcon,25 squat clean @172 for time,,172,25,4:05,time,,
+2025-01-23,erg,10 rds 1:00 Echo/Row/Ski cal + 1:00 rest (Triangle retest),,,,498,cals,,PR (was 482 on 10/25/24)
+2025-01-27,lift,Power snatch 1RM,Power snatch,175,1,175,lb,175,Several misses at 165
+2025-01-27,benchmark,Open 19.2,,,,254,reps,,1 rep at 225 (was 170 on 9/11/24)
+2025-01-27,lift,Bench 1RM attempt (12:00 cap),Bench press,215,1,215,lb,215,Time cap; no spot
+2025-01-28,lift,Front squat 1RM,Front squat,290,1,290,lb,290,PR (+15)
+2025-01-29,lift,Pausing jerk heavy double,Jerk (push/pausing),195,2,195,lb,208,
+2025-01-29,benchmark,DT (5 RFT 12 DL/9 HPC/6 PJ @155),,155,,7:19,time,,PR (was 8:01)
+2025-01-29,gymnastics,5 legless + 5 rope climbs for time,,,,~6:00,time,,
+2025-01-30,lift,Squat snatch 5RM TnG,Snatch (squat),160,5,160,lb,187,PR (was 155)
+2025-01-30,lift,Squat clean 5RM TnG,Squat clean,215,5,,lb,251,Missed 225 on rep 4 (215 from 1/9)
+2025-01-31,lift,Power clean 1RM,Power clean,225,1,225,lb,225,
+2025-01-31,gymnastics,For time: 5 wall-facing HSPU / 10 strict HSPU / 20 kipping HSPU,,,,4:30,time,,PR (was 6:18)
+2025-02-03,lift,Bench heavy 8,Bench press,185,8,185,lb,234,
+2025-02-03,lift,Bench max reps @95% of 8RM,Bench press,175,12,,reps,,
+2025-02-03,metcon,150 DU / 75 WB / 100 DU / 50 WB,,,,8:56,time,,
+2025-02-03,lift,Squat snatch heavy double (after metcon),,155,2,,lb,,Missed 165 double
+2025-02-04,lift,Back squat 4 @ 80%,Back squat,260,4,,lb,295,
+2025-02-04,metcon,AMRAP 15: 400m run / 12 UB power snatch 95,,,,4 rds + 1,rounds+reps,,
+2025-02-05,lift,Push jerk technical max (1+2),Jerk (push/pausing),195,3,,lb,215,
+2025-02-05,lift,Deadlift heavy cluster 1.1.1,Deadlift,365,3,,lb,365,
+2025-02-05,metcon,3 RFT: 12 DB C&J 50s / 15 KHSPU / 18 TTB,,,,9:38,time,,
+2025-02-06,metcon,15 sets: 0:30 Echo / 0:30 row / 6 shuttles,,,,31:07,time,,
+2025-02-07,benchmark,Open 24.1,,50,,8:37,time,,Prior best 9:04
+2025-02-07,lift,Squat clean single (build to ~90%),Squat clean,240,1,240,lb,240,
+2025-02-10,lift,Bench heavy 6,Bench press,195,6,195,lb,234,
+2025-02-10,benchmark,Open 17.1,,,,72+ (135 section done ~7:50),reps,,Failed 185 snatch
+2025-02-11,lift,Back squat 6 @ 80%,Back squat,260,6,,lb,312,
+2025-02-11,benchmark,Christine (3 RFT 500m row / 12 BW DL / 21 BJ 24in),,,,9:42,time,,3:25/3:20/2:55
+2025-02-11,lift,Deadlift 5RM TnG,Deadlift,335,5,335,lb,391,
+2025-02-12,lift,Push jerk + split jerk complex,Jerk (push/pausing),185,4,,lb,210,
+2025-02-12,benchmark,2023 AGQF Workout 1 (DB lunges / TTB / C2B / BMU),,,,14:08,time,,
+2025-02-14,benchmark,Open 21.1,,,,565,reps,,170 DU into the 210 set; +185 reps vs original
+2025-02-14,lift,Clean & jerk @90%,Clean & jerk,215,1,,lb,215,C&J 1RM reference 240
+2025-02-17,lift,Bench heavy 4,Bench press,205,4,205,lb,232,
+2025-02-17,metcon,40 thrusters 95 / 40 C2B,,,,not recorded,note,,
+2025-02-17,lift,Squat snatch + hang squat snatch complex,,155,2,,lb,,Missed 165
+2025-02-18,lift,Back squat 6 @ 85%,Back squat,275,6,,lb,330,
+2025-02-18,metcon,AMRAP 24 bike erg cals w/ E2MOM RC/HSPU/WW/DU,,,,201,cals,,
+2025-02-18,gymnastics,Max UB handstand walk distance,,,,23 ft,distance,,PR
+2025-02-19,lift,Deadlift heavy single (5-4-3-2-1),Deadlift,345,1,,lb,345,
+2025-02-19,metcon,3 sets: 15 BBJO / 30 DB snatch 50 / 15 FS 95 (4:00 rest),,,,2:56/2:54/2:51,time,,
+2025-02-20,metcon,1000-200m run + 50-10 Echo/Row cals ladder,,,,35:50,time,,
+2025-02-21,benchmark,Open 13.4 (AMRAP 7 C&J 135 / TTB),,135,,91,reps,,1 C&J into round of 18
+2025-02-21,lift,Thruster 8x2 from floor,Thruster,185,2,,lb,197,
+2025-02-24,lift,Back squat 4 @ 90%,Back squat,290,4,,lb,329,
+2025-02-24,benchmark,Open 17.4,,225,,203,reps,,38 HSPU
+2025-02-26,lift,Clean & jerk single (92-94%),Clean & jerk,225,1,,lb,225,
+2025-02-26,metcon,2 sets: 12 DB thrusters 50s / 75 DU,,,,1:01/1:03,time,,
+2025-03-04,lift,Bench cluster 2.2.2,Bench press,185,2,,lb,185,Easy day
+2025-03-05,lift,Deadlift cluster 1.1,Deadlift,315,2,,lb,315,
+2025-03-05,metcon,"Two 8-min sprints (PS/BJO/Echo/TTB, BBJO/V-up/Echo)",,,,3:57 / 3:11,time,,
+2025-03-07,benchmark,Open 25.2,,,,9:20,time,,"Score as noted; retested 3/10, no score written"
+2025-03-11,lift,Bench cluster 1.1.1,Bench press,215,3,,lb,215,
+2025-03-11,metcon,70 Echo / 60 TTB / 50 Echo / 40 C2B / 30 Echo / 20 BMU,,,,~22:40,time,,
+2025-03-12,lift,Squat snatch single,Snatch (squat),185,1,185,lb,185,~97%
+2025-03-12,metcon,2 sets: 500m row / 12 DL 225 / 2 RC / 5 WW,,,,3:00/3:00,time,,
+2025-03-18,lift,Back squat 3x8 @60%,Back squat,195,8,,lb,247,
+2025-03-18,metcon,5 sets: 400m run / 5-4-3-2-1 squat snatch 95-175,,,,not recorded,note,,Missed 2nd rep at 155
+2025-03-18,gymnastics,Freestanding handstand hold after 5ft walk,,,,~5 s,time,,
+2025-03-19,metcon,3 rds: 33 WB / 22 BJO / 11 KHSPU,,,,3:16/3:19/3:25,time,,
+2025-03-24,lift,Bench heavy single,Bench press,225,1,225,lb,225,
+2025-03-24,lift,Bench max reps @185,Bench press,185,10,,reps,247,
+2025-03-24,benchmark,2023 Semifinal Workout 4,,,,10:58,time,,Conservative pacing
+2025-03-25,lift,Snatch 1RM (in workout),Snatch (squat),195,1,195,lb,195,5 lb PR
+2025-03-25,benchmark,2024 Semis-style: 50 row cal + 9/6/3 snatch 155/175/195,,,,1 rep @195,note,,
+2025-03-25,gymnastics,Ring muscle-up,,,,1,reps,,First ring muscle-up
+2025-03-26,lift,Front squat 4 @ 80% (ref 1RM ~295),Front squat,235,4,,lb,266,
+2025-03-26,benchmark,2023 Semifinal Workout 1a (row/DU/shuttle ladder),,,,18:34,time,,
+2025-03-27,benchmark,2023 Semifinal Workout 3a (AMRAP 2x5 7 DL/5 PC/3 J @185),,185,,"1+3C, 1+1J, 1+5C, 1+4C, 1+3C",rounds+reps,,
+2025-03-27,gymnastics,Max freestanding handstand hold,,,,~8 s,time,,
+2025-03-28,benchmark,2024 Semifinal Workout 4 (30 PC / 30 TTB / 30 thrusters @115),,115,,4:32,time,,
+2025-03-28,lift,Clean & jerk 1RM,Clean & jerk,235,1,235,lb,235,Missed jerk at 245
+2025-03-28,gymnastics,Max UB kipping HSPU,,,,26,reps,,2in deficit: 20
+2025-03-31,lift,Back squat heavy single,Back squat,290,1,,lb,290,ref 1RM 325
+2025-03-31,lift,Strict press heavy single,Strict press,145,1,145,lb,145,ref 1RM 155
+2025-03-31,lift,Deadlift heavy single,Deadlift,385,1,385,lb,385,Wodify max 475 (2023)
+2025-03-31,metcon,AMRAP 12: 300m row / 40 DU / 25ft HSW,,,,3 rds + 10 ft,rounds+reps,,
+2025-04-01,metcon,3 rds: 15 Echo cal / 6-4-2 clusters @175,,,,5:01,time,,
+2025-04-03,benchmark,2025 Age Group Semis Workout 5,,155,,4:53,time,,Scaled bar 175 to 155
+2025-04-04,benchmark,2025 Age Group Semis Workout 1,,,,1 rep into the 9 BMU,note,,
+2025-04-04,benchmark,2025 Age Group Semis Workout 4,,,,4:59,time,,
+2025-04-05,benchmark,2025 Age Group Semis Workout 3,,,,17:53,time,,HSW scaled to 5 ft segments
+2025-04-05,benchmark,2025 Age Group Semis Workout 2,,,,capped (0 @225),note,,
+2025-04-08,gymnastics,Max UB handstand walk distance,,,,24 ft,distance,,PR
+2025-04-10,lift,Deadlift 5 TnG (moderate),Deadlift,315,5,,lb,368,
+2025-04-10,lift,Strict press 5 (moderate),Strict press,115,5,,lb,134,
+2025-04-14,lift,Close-grip bench 2RM,,205,2,205,lb,,Missed 2nd rep at 225
+2025-04-14,lift,Squat clean & split jerk x5 @80%,,195,5,,lb,,
+2025-04-14,erg,6x800m run w/ 2:00 bike erg @150W,,,,31:00,time,,
+2025-04-15,metcon,AMRAP 12: 10 BFB / shuttle / 6 DBall over shoulder 100 / shuttle / 5 HPC 175,,,,5 rds + 7,rounds+reps,,
+2025-04-16,benchmark,Linda (10-1 DL 1.5xBW / bench BW / squat clean 0.75xBW),,,,~24:00,time,,Bench the limiter
+2025-04-19,lift,Power snatch 1:00 max @75%,,,,"9/8, 9/10",reps,,
+2025-04-19,metcon,30 TTB / 30 C2B / 30 power snatch 95,,,,5:30,time,,
+2025-04-22,metcon,300/200/100ft DBall carry + 150/100/50 DU; 30 DBall over shoulder,,,,~10:30,time,,
+2025-04-22,gymnastics,Max UB handstand walk distance,,,,~40 ft,distance,,"PR (30, 35, 40)"
+2025-04-22,gymnastics,Freestanding handstand hold,,,,~10 s,time,,PR
+2025-04-23,lift,Deadlift 3RM,Deadlift,405,3,405,lb,446,RPE 9-9.5
+2025-04-23,lift,Linda EMOM: bench single,,205,1,,lb,,
+2025-04-24,lift,Squat snatch EMOM doubles,Snatch (squat),160,2,,lb,171,Missed many at 165
+2025-04-24,metcon,AMRAP 15: 2-4-6... DB HPC 50s / burpee to target + 2 RC,,,,round 16 + 10 burpees,rounds+reps,,
+2025-04-25,lift,Seated banded strict press 4x5,Seated banded strict press,105,5,,lb,123,
+2025-04-25,lift,Pausing OHS 3x8,,115,8,,lb,,
+2025-04-29,lift,Bench 3x6 speed @65%,Bench press (paused/speed),155,6,,lb,186,
+2025-04-29,metcon,3000m row w/ E2MOM 8 DB bench 70 / 6 DB C&J 70,,,,21:40,time,,
+2025-04-30,lift,Banded back squat 4RM,,275,4,275,lb,,
+2025-04-30,metcon,AMRAP 10/7/4: run + max C&J 135 / power snatch 115 / thrusters 95,,,,19 / 24 / 28,reps,,
+2025-05-01,lift,Pausing bench 5 @185,Bench press (paused/speed),185,3,,reps,204,Dropped to 3
+2025-05-02,lift,Seated banded strict press 5x6,Seated banded strict press,100,6,,lb,120,
+2025-05-03,lift,Power snatch 2:00 AMRAP @70%,,,,21/20,reps,,
+2025-05-03,metcon,40-30-20-10 ski cal + PU/C2B/TTB/BMU,,,,13:27,time,,
+2025-05-05,lift,Pausing bench 1RM for day,Bench press (paused/speed),225,1,225,lb,225,Missed 235
+2025-05-05,lift,Clean & jerk EMOM singles @85-87%,,210,1,,lb,,
+2025-05-06,lift,Box back squat 10-12 @70-72%,,235,12,,lb,,
+2025-05-06,gymnastics,AMRAP 3 HSW total distance (5ft segments),,,,50 ft,distance,,
+2025-05-07,metcon,Linda progression: ski/squat clean 145 + max DL 285 / bench 185,,,,"DL 4/8, BP 4/4",reps,,
+2025-05-08,lift,Squat snatch EMOM singles @90%,Snatch (squat),175,1,,lb,175,165 = ~85%
+2025-05-09,lift,Seated banded strict press 4x4,Seated banded strict press,110,4,110,lb,125,
+2025-05-12,metcon,20 PC&PJ 155 / 20 SC&SJ 155 / 10 PC&PJ 195 / 10 SC&SJ 195,,,,16:40,time,,
+2025-05-12,metcon,2 RFT w/ 20lb vest: 1250m ski / 75 air squat / 50 push-up / 25 pull-up,,,,24:58,time,,Ski subbed for run
+2025-05-13,metcon,AMRAP 5x3 row/SHSPU/KHSPU/DBall carry,,,,abandoned,note,,Shoulder pain; booked PT
+2025-05-14,lift,Banded deadlift 5RM,,325,5,325,lb,,
+2025-05-14,metcon,Mini Linda 6-1 x2 (3:00 rest),,,,5:45 / 7:54,time,,
+2025-05-15,metcon,20/20 power/squat snatch 135 + 10/10 @155,,,,26:31,time,,Close-grip experiment
+2025-05-15,metcon,10 sets: 30 DU / 5 HPC 155 / legless RC / RC (1:30 rest),,,,26:47,time,,
+2025-05-16,lift,Seated banded strict press 5x6,Seated banded strict press,105,6,,lb,126,
+2025-05-19,lift,Squat clean & split jerk x5 @85-88%,,205,5,,lb,,
+2025-05-19,metcon,3 RFT: 1000m row / 10 BMU,,,,15:45,time,,5:10/5:15/5:18
+2025-05-20,lift,Back squat max cluster 1.1.1,Back squat,305,3,,lb,305,
+2025-05-20,metcon,AMRAP 2x7: FR carry 205 / DB step-ups / max Echo cal,,,,12/13/12/13/12/13/14,cals,,
+2025-05-21,metcon,Light Linda (DL 245 / bench 155 / squat clean 115),,,,12:04,time,,
+2025-05-22,metcon,3 sets w/ vest: 400m run / 5 rds 5 PU/10 push-up/15 squat / 400m run,,,,34:45,time,,10:25/10:12/10:08
+2025-05-27,lift,Banded bench 3RM,,205,3,205,lb,,
+2025-05-27,erg,3 sets 18-12-6 row/Echo/ski cals,,,,21:48,time,,
+2025-05-28,metcon,AMRAP 12: 3 BMU / 50 DU / 1 rope climb,,,,10 rounds,rounds+reps,,
+2025-05-29,lift,Deficit deadlift 3x4,Deficit deadlift,275,4,,lb,312,
+2025-05-29,metcon,Linda progression: 3 sets of 10 DL/bench/squat clean (1:00 rest),,,,2:32/2:35/2:52,time,,
+2025-05-29,gymnastics,100 GHD sit-ups for time,,,,8:38,time,,
+2025-05-30,benchmark,Friday Throwdown (3-2-1 rds Echo/TTB/BFB/push press),,,,19:50,time,,
+2025-05-31,lift,Squat clean cluster,,225,1,,lb,,
+2025-06-02,lift,Squat clean single (build),Squat clean,235,1,235,lb,235,
+2025-06-02,benchmark,Nancy (5 RFT 300m run / 15 OHS 95) - FS sub,,95,,11:49,time,,Front squats subbed for OHS (shoulder)
+2025-06-03,metcon,30-20-10 DBall over shoulder 100 + 20 box jumps,,,,8:57,time,,
+2025-06-03,metcon,2 sets: 500m ski / 50ft HSW,,,,3:21 / 4:51,time,,
+2025-06-04,lift,Deficit deadlift 1RM for day,Deficit deadlift,395,1,395,lb,395,
+2025-06-04,benchmark,Linda (10-1 DL 280 / bench 185 / squat clean 140),,,,~18:30,time,,PR (was ~24:00 on 4/16)
+2025-06-06,benchmark,Friday Throwdown (burpee/clean 175/WB/DU chipper),,175,,11:56,time,,
+2025-06-09,metcon,Strict PU / shuttles / weighted strict PU / burpee PU chipper,,,,12:35,time,,
+2025-06-11,metcon,AMRAP 40: 20 row/20 bike/20 ski cal / 100 DU,,,,7 rds + 60 cal,rounds+reps,,
+2025-06-12,gymnastics,Seated box jump max height,,,,46 in,distance,,
+2025-06-12,lift,Block power clean 3x5 @75%,,205,5,,lb,,
+2025-06-12,metcon,30-20-10 DL 185 / DB strict press 35s,,,,5:56,time,,
+2025-06-16,lift,Pausing bench 2RM,Bench press (paused/speed),225,2,225,lb,240,Coach spotted
+2025-06-16,lift,Block squat clean & split jerk 1RM (from knee),Block clean & jerk,245,1,245,lb,245,
+2025-06-16,metcon,AMRAP 15: 100-200-300m... run + 20 WB,,,,500m into 600m run,rounds+reps,,
+2025-06-17,metcon,15-10-5 DBall over bar 100 / 150-100-50 DU,,,,7:14,time,,
+2025-06-18,benchmark,Heath's King Kong (3 RFT 1 DL 375 / 2 RMU / 3 SC 205 / 4 SHSPU),,,,7:56,time,,Cycle retest
+2025-06-24,lift,Pause front squat 3RM,Front squat (paused),255,3,255,lb,280,
+2025-06-24,metcon,DBall/row chipper 50-40-30-20-10,,,,22:40,time,,
+2025-06-26,lift,Block squat snatch 1.1 @80%,,155,2,,lb,,
+2025-06-26,metcon,AMRAP 20: 60 DU / 15 ski cal / 8 strict PU,,,,8 rds + 75,rounds+reps,,
+2025-06-27,lift,Seated banded strict press 5RM,Seated banded strict press,105,5,105,lb,123,
+2025-06-28,metcon,25 BJO / 40 Echo / 30 PC 155 / 40 Echo / 25 BJO,,,,10:52,time,,
+2025-06-30,lift,Block squat clean & split jerk 1.1.1,,205,3,,lb,,
+2025-06-30,metcon,2 sets DL/BJO/PC/BJO/S2OH @135 + runs,,,,6:20 / 6:06,time,,
+2025-07-01,metcon,5 RFT: 50ft back rack carry 305 / 12 FS 115 / 60 DU,,,,~9:17,time,,
+2025-07-02,lift,Deficit deadlift 5RM,Deficit deadlift,370,5,370,lb,432,
+2025-07-03,lift,Block squat snatch 1.1.1 @80%,,155,3,,lb,,
+2025-07-03,metcon,10-1 burpee pull-up / DB box step-over 50s,,,,12:41,time,,
+2025-07-04,lift,Seated banded strict press 3RM,Seated banded strict press,120,3,120,lb,132,
+2025-07-04,lift,Pausing snatch balance x4,,130,4,,lb,,
+2025-07-07,lift,Block bench 10RM,,200,10,200,lb,,
+2025-07-07,metcon,8 sets 0:30 ski / 0:30 TnG PC 155 / 1:00 run / rest,,,,7 cal / 8 PC / ~150m per set,reps,,
+2025-07-08,lift,Front squat ladder @75%,Front squat,225,5,,lb,262,ref 1RM 295
+2025-07-09,metcon,King Kong progression: 3 sets 3 DL 315 / 2 RMU / 5 SC 185 / 6 KHSPU,,,,1:27/1:20/1:22,time,,
+2025-07-10,lift,Block squat snatch,,170,1,,lb,,Missed 2nd rep at 170
+2025-07-10,metcon,AMRAP 20: 300m run / max UB strict pull-ups,,,,69,reps,,
+2025-07-14,metcon,4x AMRAP 2: 20 cal Echo / max run meters,,,,331/339/319/250,meters,,
+2025-07-15,lift,Front squat 5RM,Front squat,265,5,265,lb,309,
+2025-07-15,metcon,AMRAP 12: 15 V-up / 12 DBall squat / 9 BBJ,,,,4 rds + 5,rounds+reps,,
+2025-07-16,metcon,10 shuttles / 10 wall walks / 50ft HSW,,,,4:21,time,,
+2025-07-17,lift,Block squat snatch x1 @74%,,145,1,,lb,,
+2025-07-17,metcon,5 RFT: 15 ski cal / 15 ring push-up / 15 banded strict PU,,,,16:35,time,,
+2025-07-18,lift,Seated banded strict press 10RM,Seated banded strict press,105,10,105,lb,140,
+2025-07-18,benchmark,Redemption Challenge (800 run / DB snatch / GHD / WW / GHD / DB C&J / 800 run),,50,,23:26,time,,
+2025-07-21,lift,Bench 4x8,Bench press,175,8,,lb,222,
+2025-07-21,lift,Block squat clean & split jerk 1.1 @92%,,225,2,,lb,,
+2025-07-21,erg,12x150m run (0:30 rest),,,,43 to 33 s,time,,Negative split
+2025-07-22,metcon,8 RFT: 50ft DBall lunge 80 / 50ft BBJ,,,,12:56,time,,
+2025-07-23,lift,Banded paused floating deadlift 5RM,,265,5,265,lb,,
+2025-07-23,metcon,King Kong progression 6 RFT (DL 315 / RMU / SC 185 / KHSPU),,,,10:26,time,,Ripped hand
+2025-07-24,lift,Block squat snatch 1.1,,175,1,,lb,,Missed 175 several times
+2025-07-24,metcon,4 sets: 5 strict PU / 10 HPS 95 / 75 DU / 10 PC 95 / 5 strict PU,,,,2:19/2:16/2:18/2:09,time,,
+2025-07-25,lift,Seated banded strict press 5RM,Seated banded strict press,115,5,115,lb,134,Stopped for shoulder pain
+2025-07-28,lift,Bench 5RM,Bench press,205,5,205,lb,239,
+2025-07-28,metcon,AMRAP 20: 600m run / 15 UB thrusters 75,,,,4 rds + 430m,rounds+reps,,
+2025-07-29,metcon,AMRAP 4x3: 2x (PC + 50ft FR carry 205) / 15 BFB,,,,"2, 2+PC+25ft, 2",rounds+reps,,
+2025-08-01,lift,Seated banded strict press 3RM,Seated banded strict press,120,3,120,lb,132,
+2025-08-04,metcon,"28-21-15 thruster 75 / lunge, then 4x300m run",,,,~5:00 first half,time,,Repeat of 6/23 (4:09)
+2025-08-05,lift,Pause front squat heavy single,Front squat (paused),265,1,,lb,265,10-15 lb left
+2025-08-05,metcon,AMRAP 20: 20 DB step-up / 15 bike cal / 100ft sandbag 150 / 100ft farmers 53s,,,,4 rds + 15,rounds+reps,,
+2025-08-06,lift,Seated banded strict press 1RM,Seated banded strict press,125,1,125,lb,125,
+2025-08-08,lift,Block squat snatch 1RM,Block snatch,185,1,185,lb,185,
+2025-08-08,metcon,5 sets: 10 ring row / 8 HPS 95 / 6 strict C2B / 4 BJO 30in,,,,9:50,time,,
+2025-08-11,erg,5000m run (walk 100m every 500m),,,,~32:00,time,,
+2025-08-12,metcon,15-10-5 power snatch 115 / C&J 155,,,,7:40,time,,
+2025-08-13,erg,6 sets on 6:00: 30/20/10 cal rotating row/Echo/ski,,,,3:15/3:05/3:15/3:19/3:09/3:13,time,,
+2025-08-14,metcon,EMOM to failure: 50 DU + 1-3-5... bike cal,,,,10 cal into round of 11,reps,,
+2025-08-15,lift,Snatch balance x3,,135,3,,lb,,
+2025-08-18,lift,"Clean complex (clean + 2 FS + hang clean), all power",,225,1,,lb,,Felt more in tank
+2025-08-18,lift,Bench max UB reps @155,Bench press,155,13,,reps,,12/10/13
+2025-08-19,metcon,3 sets: 3:00 bike cal / box get-overs / PU or RC,,,,16:19,time,,45 cal per bike
+2025-08-20,lift,Block deadlift (below knee) heavy single,Block deadlift,415,1,415,lb,415,Felt 1RM
+2025-08-20,erg,4 RFT: 21 Echo / 21 ski / 21 row cal,,,,16:01,time,,
+2025-08-22,lift,Snatch complex (snatch + 2 OHS + hang snatch),,165,1,,lb,,
+2025-08-22,metcon,40 GHDSU / 120 DU / 40 DB snatch 50,,,,4:04,time,,
+2025-08-25,lift,Clean complex (squat),,235,1,,lb,,
+2025-08-25,lift,Block bench 3RM (2nd lowest block),,230,3,230,lb,,
+2025-08-25,metcon,Event 2 sim: 4 sets DB PP / BFB / V-up / HPC&J 135,,,,2:13/2:20/2:21/2:11,time,,
+2025-08-26,lift,Front squat ladder @82%,Front squat,245,5,,lb,286,
+2025-08-26,metcon,Event 5 sim: 3 RFT bike/ring row/get-over/GHDSU/strict PU/RC,,,,24:15,time,,Post-illness
+2025-08-28,metcon,Event 1 sim: AMRAP 5x4 row/tank push/BS 155/max HSW,,,,"2,1,3,1 HSW sections",reps,,
+2025-09-16,lift,DB bench AMRAP @70s,,70,9,,reps,,6/8/9
+2025-09-16,lift,Weighted strict pull-up 3RM,,30,3,,lb added,,Chain belt; more left
+2025-09-16,erg,100 cal ski for time,,,,5:33,time,,Cycle benchmark
+2025-09-17,lift,Seated DB strict press AMRAP @50s,,50,5,,reps,,3/4/5; shoulder discomfort
+2025-09-17,metcon,AMRAP 15: 12 single-leg row cal / 10/arm KB press 35,,,,8 rds + 1,rounds+reps,,
+2025-09-18,lift,Bench 5RM (no leg drive),Bench press,185,5,185,lb,216,Injured leg
+2025-09-18,erg,50 cal arms-only Echo for time,,,,not recorded,note,,~53 rpm avg
+2025-09-19,lift,Seated barbell strict press 5RM,Seated strict press,115,5,115,lb,134,
+2025-09-22,lift,Bench 4x5 @85%,Bench press,160,5,,lb,187,
+2025-09-26,lift,Seated strict press cluster 4.4.4,Seated strict press,110,4,,lb,110,
+2025-09-26,erg,2000m single-leg row w/ 100 seated jump rope every 2:00,,,,10:51,time,,
+2025-09-29,erg,3 sets 30 ski cal (2:00 rest),,,,1:34/1:32/1:34,time,,
+2025-09-30,metcon,150-125-100-75-50 seated jump rope / 25-20-15-10-5 kipping knee raise,,,,5:37,time,,
+2025-10-01,lift,Bench max reps @72% (ref 1RM 235),Bench press,170,8,,reps,215,
+2026-10-08,lift,Squat snatch 2x2 @88% (1RM 195),Snatch (squat),155,2,,lb,,2 sets of 2 at 155 (~79%); missed 170 (prescribed 88%)
+2026-10-08,lift,Back squat 3x2 @84% (1RM 325),Back squat,270,2,,lb,,3 sets of 2 at 270 (~83%); felt right on the money
+2026-10-09,metcon,FOTC 2026 Wk2 test: 1 round 15 row cal / 15+15 DB hang snatch 50 / 15 TTB,,50,,2:53,time,,"Plan 2:53 (row 1100 cal/hr). Snatches slow (rep 10 at the arm-1 beep), caught up on TTB. HR 165 end, 145 after 1:00"
+2026-10-09,benchmark,FOTC 2026 Coastal Qualifier Wk2 (4 RFT: 15 row cal / 15+15 DB hang snatch 50 / 15 TTB; 18:00 cap),,50,,11:13,time,,"Plan 11:55 (3:00 rounds). On pace R1-R2, a bit faster R3, much faster R4. No splits."
+2026-10-20,benchmark,FOTC 2026 Coastal Qualifier Wk3 (15 FS 165 / 30 C2B / 15 FS / 15 C2B / 15 FS; 9:00 cap),,165,,5:00,time,,"Attempt 1, date approximate. Kipping C2B. Hit the 5:00 plan exactly; still exhausted after the 3:00 rest."
+2026-10-20,benchmark,FOTC 2026 Coastal Qualifier Wk4 (8:00: 20 S2O 135 / 15 S2O 155 / 10 S2O 185 / max BMU),,185,38,38,reps,,"Attempt 1, date approximate. 135 in 5s/3s/2s, 155 as 5x3, 185: missed first, 3 reps, each cleaned from floor. 0 BMU."
+2026-10-21,benchmark,FOTC 2026 Coastal Qualifier Wk3 retest (15 FS 165 / 30 C2B / 15 FS / 15 C2B / 15 FS; 9:00 cap),,165,,6:00,time,,"Retest, date approximate (reported 2026-10-26). Planned 6:00 to save energy for W4; 1:00 slower than attempt 1."
+2026-10-21,benchmark,FOTC 2026 Coastal Qualifier Wk4 retest (8:00: 20 S2O 135 / 15 S2O 155 / 10 S2O 185 / max BMU),,185,40,40,reps,,"Retest, date approximate. 5 reps at 185 (+2 vs attempt 1), 0 BMU. Slower W3 barely helped. Heath: cycling heavy barbells kills his cardio."
+2026-10-26,benchmark,FOTC 2026 Qualifier Wk5 test round (15 DL 225 / 15 BJO 24 / 50 ft HSW),,225,,1:55,time,,"Fresh practice round. DL done 0:28, BJO 1:04, first 25 ft HSW 1:33 (10 s pause before), second 25 ft 1:55. Both HSW lengths unbroken; tail of the second was hard. HR 96 start, 157 at finish, 132 one minute later."
+2026-10-26,benchmark,FOTC 2026 Coastal Qualifier Wk5 (21-15-9 DL 225 / BJO 24 / 50 ft HSW after 21s and 15s; 12:00 cap),,225,,5:50,time,,"Attempt 1. Plan was 6:05, finished 15 s under. Slowest part: last 25 ft of the second HSW. Fell a couple of times there and had to restart sections, so that length broke into 4 segments."
