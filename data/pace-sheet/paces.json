@@ -1,0 +1,437 @@
+[
+ {
+  "category": "Engine",
+  "maxUB": null,
+  "movement": "Row (meters)",
+  "notes": "Easy 2:00 and sprint 1:30 are Heath's own numbers (Oct 2026). Moderate from 3x1500 m at 1:47-1:50 and 3000 m easy at 1:53.5 (Oct 2024). Hard from 2k PR 6:49.5, held 1:44 (Nov 2024). Allow about 10 s to get on and off the rower (estimate).",
+  "order": 0,
+  "setPlan": "",
+  "tiers": {
+   "easy": {
+    "source": "stated",
+    "value": 120
+   },
+   "hard": {
+    "source": "derived",
+    "value": 104
+   },
+   "moderate": {
+    "source": "derived",
+    "value": 110
+   },
+   "sprint": {
+    "source": "stated",
+    "value": 90
+   }
+  },
+  "unit": "sec/500m",
+  "updated": "2026-10-03",
+  "id": "row-meters"
+ },
+ {
+  "category": "Engine",
+  "maxUB": null,
+  "movement": "Row (calories)",
+  "notes": "Sprint from Triangle 1:00 machine rounds, about 15-17 cal per minute (Oct 2024, Jan 2025).",
+  "order": 1,
+  "setPlan": "",
+  "tiers": {
+   "easy": {
+    "source": "estimated",
+    "value": 11
+   },
+   "hard": {
+    "source": "estimated",
+    "value": 15
+   },
+   "moderate": {
+    "source": "estimated",
+    "value": 13
+   },
+   "sprint": {
+    "source": "derived",
+    "value": 17
+   }
+  },
+  "unit": "cal/min",
+  "updated": "2026-10-03",
+  "id": "row-cal"
+ },
+ {
+  "category": "Engine",
+  "maxUB": null,
+  "movement": "Echo bike",
+  "notes": "Moderate from 20 min max 306 cal, 15.3/min (Nov 2024). Sprint from 1:00 sprints of 21-23 cal (Oct 2024).",
+  "order": 2,
+  "setPlan": "",
+  "tiers": {
+   "easy": {
+    "source": "estimated",
+    "value": 11
+   },
+   "hard": {
+    "source": "estimated",
+    "value": 18
+   },
+   "moderate": {
+    "source": "derived",
+    "value": 15
+   },
+   "sprint": {
+    "source": "derived",
+    "value": 22
+   }
+  },
+  "unit": "cal/min",
+  "updated": "2026-10-03",
+  "id": "echo-bike"
+ },
+ {
+  "category": "Engine",
+  "maxUB": null,
+  "movement": "Bike erg",
+  "notes": "Moderate from 45 cal per 3:00 bike in a workout (Aug 2025). Sprint from 1:00 max efforts of 17-19 cal (Oct 2024).",
+  "order": 3,
+  "setPlan": "",
+  "tiers": {
+   "easy": {
+    "source": "estimated",
+    "value": 12
+   },
+   "hard": {
+    "source": "estimated",
+    "value": 16
+   },
+   "moderate": {
+    "source": "derived",
+    "value": 15
+   },
+   "sprint": {
+    "source": "derived",
+    "value": 18
+   }
+  },
+  "unit": "cal/min",
+  "updated": "2026-10-03",
+  "id": "bike-erg"
+ },
+ {
+  "category": "Engine",
+  "maxUB": null,
+  "movement": "Ski erg",
+  "notes": "Hard from 100 cal for time in 5:33, 18/min (Sep 2025). Sprint from 3x30 cal in 1:32-1:34 (Sep 2025).",
+  "order": 4,
+  "setPlan": "",
+  "tiers": {
+   "easy": {
+    "source": "estimated",
+    "value": 12
+   },
+   "hard": {
+    "source": "derived",
+    "value": 18
+   },
+   "moderate": {
+    "source": "estimated",
+    "value": 15
+   },
+   "sprint": {
+    "source": "derived",
+    "value": 20
+   }
+  },
+  "unit": "cal/min",
+  "updated": "2026-10-03",
+  "id": "ski-erg"
+ },
+ {
+  "category": "Running",
+  "maxUB": null,
+  "movement": "Run",
+  "notes": "Easy from 5 km with 100 m walks every 500 m in about 32:00 (Aug 2025). Hard from EMOM 150 m in 42-45 s. Sprint from 150 m repeats down to 33 s (Jul 2025). All before the right heel surgery, so confirm before relying on these.",
+  "order": 5,
+  "setPlan": "",
+  "tiers": {
+   "easy": {
+    "source": "derived",
+    "value": 154
+   },
+   "hard": {
+    "source": "derived",
+    "value": 115
+   },
+   "moderate": {
+    "source": "estimated",
+    "value": 135
+   },
+   "sprint": {
+    "source": "derived",
+    "value": 90
+   }
+  },
+  "unit": "sec/400m",
+  "updated": "2026-10-03",
+  "id": "run"
+ },
+ {
+  "category": "Running",
+  "maxUB": null,
+  "movement": "Shuttle run (25 ft down and back)",
+  "notes": "Moderate from FOTC Wk1 retest (Oct 5 2026): 549 reps in 18:00 averaged about 2:32/round, so about 0:35 per 6 shuttles is sustainable. The 2:15/round opener (0:31 shuttles) burned him out. Other tiers are estimates.",
+  "order": 6,
+  "setPlan": "Hand past the line each turn",
+  "tiers": {
+   "easy": {
+    "source": "estimated",
+    "value": 7
+   },
+   "hard": {
+    "source": "estimated",
+    "value": 5.7
+   },
+   "moderate": {
+    "source": "stated",
+    "value": 5.8
+   },
+   "sprint": {
+    "source": "estimated",
+    "value": 5
+   }
+  },
+  "unit": "sec/rep",
+  "updated": "2026-10-07",
+  "id": "shuttle-25ft"
+ },
+ {
+  "category": "Gymnastics & bodyweight",
+  "maxUB": null,
+  "movement": "Burpee (line or bar facing)",
+  "notes": "Moderate from FOTC Wk1 retest (Oct 5 2026): about 1:10 per 18 line-facing burpees held for 18 min (avg 2:32/round). 3.4 sec/rep (2:15/round pace) was too fast to hold. Log: 15 thrusters 95 + 12 bar-facing burpees in about 1:00 (Jan 2025).",
+  "order": 7,
+  "setPlan": "Steady singles; don't stop between reps",
+  "tiers": {
+   "easy": {
+    "source": "estimated",
+    "value": 5
+   },
+   "hard": {
+    "source": "estimated",
+    "value": 3.8
+   },
+   "moderate": {
+    "source": "stated",
+    "value": 3.9
+   },
+   "sprint": {
+    "source": "estimated",
+    "value": 3
+   }
+  },
+  "unit": "sec/rep",
+  "updated": "2026-10-07",
+  "id": "burpee"
+ },
+ {
+  "category": "Gymnastics & bodyweight",
+  "maxUB": 170,
+  "movement": "Double-under",
+  "notes": "Easy matches the FOTC Wk1 retest (Oct 5 2026): 54 in about 0:48 including one break held for 18 min (avg 2:32/round). 0:42 per 54 (2:15/round) was too fast to hold. Hard from 11 TTB + 50 DU sets in about 0:48 (Nov 2024). Max UB from Open 21.1, 170 into the 210 set (Feb 2025).",
+  "order": 8,
+  "setPlan": "34/20 for 54 (FOTC plan); 50 unbroken is comfortable",
+  "tiers": {
+   "easy": {
+    "source": "estimated",
+    "value": 0.87
+   },
+   "hard": {
+    "source": "derived",
+    "value": 0.56
+   },
+   "moderate": {
+    "source": "estimated",
+    "value": 0.75
+   },
+   "sprint": {
+    "source": "estimated",
+    "value": 0.45
+   }
+  },
+  "unit": "sec/rep",
+  "updated": "2026-10-05",
+  "id": "double-under"
+ },
+ {
+  "category": "Gymnastics & bodyweight",
+  "maxUB": null,
+  "movement": "Air squat",
+  "notes": "Sprint from 1:00 max sets of 42-45 reps (Oct 2024).",
+  "order": 9,
+  "setPlan": "",
+  "tiers": {
+   "easy": {
+    "source": "estimated",
+    "value": 2.4
+   },
+   "hard": {
+    "source": "estimated",
+    "value": 1.7
+   },
+   "moderate": {
+    "source": "estimated",
+    "value": 2
+   },
+   "sprint": {
+    "source": "derived",
+    "value": 1.4
+   }
+  },
+  "unit": "sec/rep",
+  "updated": "2026-10-03",
+  "id": "air-squat"
+ },
+ {
+  "category": "Gymnastics & bodyweight",
+  "maxUB": 31,
+  "movement": "Toes-to-bar",
+  "notes": "TTB was a limiter in the 2024 log. Sprint from sets of 11 TTB + 50 DU in about 0:48 (Nov 2024). Max UB rose from 22 to 31.",
+  "order": 10,
+  "setPlan": "Break early, e.g. 6/5 for 11",
+  "tiers": {
+   "easy": {
+    "source": "estimated",
+    "value": 3.5
+   },
+   "hard": {
+    "source": "estimated",
+    "value": 2.2
+   },
+   "moderate": {
+    "source": "estimated",
+    "value": 2.8
+   },
+   "sprint": {
+    "source": "derived",
+    "value": 1.8
+   }
+  },
+  "unit": "sec/rep",
+  "updated": "2026-10-03",
+  "id": "toes-to-bar"
+ },
+ {
+  "category": "Gymnastics & bodyweight",
+  "maxUB": 32,
+  "movement": "Pull-up (kipping or butterfly)",
+  "notes": "Max UB 32 (22 butterfly + 10 kipping, Sep 2024). Chest-to-bar was a limiter. Shoulder pain since May 2025.",
+  "order": 11,
+  "setPlan": "",
+  "tiers": {
+   "easy": {
+    "source": "estimated",
+    "value": 2.5
+   },
+   "hard": {
+    "source": "estimated",
+    "value": 1.5
+   },
+   "moderate": {
+    "source": "estimated",
+    "value": 2
+   },
+   "sprint": {
+    "source": "estimated",
+    "value": 1
+   }
+  },
+  "unit": "sec/rep",
+  "updated": "2026-10-03",
+  "id": "pull-up"
+ },
+ {
+  "category": "Barbell & ball",
+  "maxUB": null,
+  "movement": "Wall ball (20 lb, 10 ft)",
+  "notes": "Hard from Karen PR, 150 in 7:01 in sets of 10, rest included (Nov 2024).",
+  "order": 12,
+  "setPlan": "Sets of 10 (Karen PR)",
+  "tiers": {
+   "easy": {
+    "source": "estimated",
+    "value": 3.5
+   },
+   "hard": {
+    "source": "derived",
+    "value": 2.8
+   },
+   "moderate": {
+    "source": "estimated",
+    "value": 3.2
+   },
+   "sprint": {
+    "source": "estimated",
+    "value": 2.2
+   }
+  },
+  "unit": "sec/rep",
+  "updated": "2026-10-03",
+  "id": "wall-ball"
+ },
+ {
+  "category": "Barbell & ball",
+  "maxUB": null,
+  "movement": "Thruster (95 lb)",
+  "notes": "Sprint from 15 thrusters 95 + 12 bar-facing burpees in about 1:00 (Jan 2025). Overhead is limited by the shoulder.",
+  "order": 13,
+  "setPlan": "15 unbroken at 75-95 lb in the log",
+  "tiers": {
+   "easy": {
+    "source": "estimated",
+    "value": 3.5
+   },
+   "hard": {
+    "source": "estimated",
+    "value": 2.5
+   },
+   "moderate": {
+    "source": "estimated",
+    "value": 3
+   },
+   "sprint": {
+    "source": "derived",
+    "value": 2
+   }
+  },
+  "unit": "sec/rep",
+  "updated": "2026-10-03",
+  "id": "thruster-95"
+ },
+ {
+  "category": "Barbell & ball",
+  "maxUB": null,
+  "movement": "DB hang snatch (50 lb, single arm)",
+  "notes": "Hard from the FOTC Wk2 test round (Oct 9 2026): planned 2.1 s/rep (0:32 per 15) but was only at rep 10 at the arm-1 beep, so about 2.5 s/rep is realistic. Other tiers are estimates.",
+  "order": 14,
+  "setPlan": "15 unbroken per arm",
+  "tiers": {
+   "easy": {
+    "source": "estimated",
+    "value": 3
+   },
+   "hard": {
+    "source": "stated",
+    "value": 2.5
+   },
+   "moderate": {
+    "source": "estimated",
+    "value": 2.7
+   },
+   "sprint": {
+    "source": "estimated",
+    "value": 2.1
+   }
+  },
+  "unit": "sec/rep",
+  "updated": "2026-10-09",
+  "id": "db-hang-snatch-50"
+ }
+]

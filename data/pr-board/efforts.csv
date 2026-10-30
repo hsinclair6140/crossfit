@@ -1,0 +1,99 @@
+id,date,kind,movement,rm,score,unit,better,note,source
+seed-e065,2025-02-11,benchmark,Christine,,582,time,lower,,coach log
+seed-e052,2024-09-09,benchmark,DT,,481,time,lower,@155,coach log
+seed-e053,2025-01-29,benchmark,DT,,439,time,lower,@155,coach log
+seed-e054,2024-11-15,benchmark,Diane,,271,time,lower,DL 225; prior best 4:54,coach log
+fotc26-wk1-a1,2026-10-03,benchmark,FOTC 2026 Wk1,,484,reps,higher,18:00 AMRAP 6 shuttles / 18 line-facing burpees / 54 DU. 6 rds + 6 shuttles + 10 burpees. Held back until round 6.,Heath
+fotc26-wk1-a2,2026-10-05,benchmark,FOTC 2026 Wk1,,549,reps,higher,"Retest: 7 rds + 3 shuttles. Opened at 2:15/round, burned out, dropped to 2:30-2:45. Next time open at 2:30/round.",Heath
+fotc26-wk1-a3,2026-10-07,benchmark,FOTC 2026 Wk1,,549,reps,higher,"Attempt 3: 7 rds + 3 shuttles, steady 2:30/round. Same score as the 2:15-then-fade attempt.",Heath
+fotc26-wk2-a1,2026-10-09,benchmark,FOTC 2026 Wk2,,673,seconds,lower,"4 RFT: 15 cal row / 15+15 single DB hang snatch 50 / 15 TTB, 18:00 cap. Planned 11:55 at 3:00/round. On pace R1-R2, picked up in R3 and a lot in R4.",Heath
+fotc26-wk3-a1,2026-10-20,benchmark,FOTC 2026 Wk3,,300,seconds,lower,"15 FS 165 / 30 C2B / 15 FS / 15 C2B / 15 FS, 9:00 cap. Kipping C2B. On the 5:00 plan exactly. Date approximate.",Heath
+fotc26-wk3-a2,2026-10-21,benchmark,FOTC 2026 Wk3,,360,seconds,lower,Retest: paced to 6:00 on purpose to save energy for W4. Date approximate.,Heath
+fotc26-wk4-a1,2026-10-20,benchmark,FOTC 2026 Wk4,,38,reps,higher,"8:00: 20 S2O 135 / 15 S2O 155 / 10 S2O 185 / max BMU. 20 + 15 + 3 at 185, 0 BMU. Still gassed after the 3:00 rest; 135 in 5s/3s/2s, 155 as 5x3, missed first 185 then cleaned each from floor. Date approximate.",Heath
+fotc26-wk4-a2,2026-10-21,benchmark,FOTC 2026 Wk4,,40,reps,higher,"Retest: 20 + 15 + 5 at 185 (+2 vs attempt 1), 0 BMU. Slower W3 barely helped; cycling heavy barbells kills his cardio. Date approximate.",Heath
+fotc26-wk5-a1,2026-10-26,benchmark,FOTC 2026 Wk5,,350,seconds,lower,"21-15-9 DL 225 / BJO 24, 50' HSW after the 21s and 15s, 12:00 cap. Planned 6:05. Slowest part was the last 25' of the second HSW: fell a couple of times and broke it into 4 segments.",Heath
+seed-e051,2024-08-28,benchmark,Grace,,156,time,lower,30 C&J @135,coach log
+seed-e059,2024-09-12,benchmark,HSPU test (5 WF / 10 strict / 20 kip),,378,time,lower,,coach log
+seed-e060,2025-01-31,benchmark,HSPU test (5 WF / 10 strict / 20 kip),,270,time,lower,,coach log
+seed-e064,2025-06-18,benchmark,Heath's King Kong,,476,time,lower,,coach log
+seed-e057,2024-09-05,benchmark,Holleyman,,1983,time,lower,PC @205,coach log
+seed-e058,2024-11-13,benchmark,Holleyman,,1733,time,lower,PC @205,coach log
+seed-e050,2024-08-26,benchmark,Isabel,,227,time,lower,30 snatch @135,coach log
+seed-e055,2024-09-13,benchmark,Karen,,432,time,lower,,coach log
+seed-e056,2024-11-08,benchmark,Karen,,421,time,lower,Sets of 10,coach log
+seed-e062,2025-04-16,benchmark,Linda,,1440,time,lower,Approximate,coach log
+seed-e063,2025-06-04,benchmark,Linda,,1110,time,lower,"280/185/140, approximate",coach log
+seed-e067,2025-06-02,benchmark,Nancy (FS sub),,709,time,lower,Front squats for OHS,coach log
+seed-e074,2025-02-21,benchmark,Open 13.4,,91,reps,higher,,coach log
+seed-e075,2025-02-24,benchmark,Open 17.4,,203,reps,higher,,coach log
+seed-e071,2024-09-11,benchmark,Open 19.2,,170,reps,higher,,coach log
+seed-e072,2025-01-27,benchmark,Open 19.2,,254,reps,higher,1 rep at 225,coach log
+seed-e073,2025-02-14,benchmark,Open 21.1,,565,reps,higher,,coach log
+seed-e061,2025-02-07,benchmark,Open 24.1,,517,time,lower,Prior best 9:04,coach log
+seed-e066,2025-03-07,benchmark,Open 25.2,,560,time,lower,,coach log
+seed-e070,2025-09-16,engine,100 cal ski,,333,time,lower,,coach log
+seed-e076,2024-08-27,engine,20 min Echo bike,,278,cal,higher,,coach log
+seed-e077,2024-11-06,engine,20 min Echo bike,,306,cal,higher,,coach log
+seed-e068,2024-09-06,engine,2000m row,,426,time,lower,,coach log
+seed-e069,2024-11-04,engine,2000m row,,409.5,time,lower,,coach log
+seed-e078,2024-10-25,engine,Triangle (10 x Echo/Row/Ski),,482,cal,higher,,coach log
+seed-e079,2025-01-23,engine,Triangle (10 x Echo/Row/Ski),,498,cal,higher,,coach log
+seed-e047,,lift,Back squat,1,325,lb,higher,"All-time PR, date unknown (used as coach % base)",coach log
+seed-e004,2024-11-07,lift,Back squat,5,265,lb,higher,~10 lb left,coach log
+seed-e088,2025-01-07,lift,Back squat,1,310,lb,higher,Single @95% of 325,coach log
+seed-e020,2025-01-21,lift,Back squat,1,305,lb,higher,Missed 315; all-time best 325 (date unknown),coach log
+seed-e037,2025-03-31,lift,Back squat,1,290,lb,higher,ref 1RM 325,coach log
+seed-e000,2024-09-06,lift,Bench press,5,185,lb,higher,Barely made last rep,coach log
+seed-e002,2024-11-04,lift,Bench press,5,205,lb,higher,No spot; up from 185 on 9/6,coach log
+seed-e005,2024-12-02,lift,Bench press,1,220,lb,higher,No spot; stopped,coach log
+seed-e009,2024-12-09,lift,Bench press,1,225,lb,higher,,coach log
+seed-e011,2024-12-16,lift,Bench press,1,225,lb,higher,,coach log
+seed-e013,2024-12-30,lift,Bench press,1,225,lb,higher,Barely,coach log
+seed-e018,2025-01-13,lift,Bench press,1,230,lb,higher,PR,coach log
+seed-e022,2025-01-27,lift,Bench press,1,215,lb,higher,Time cap; no spot,coach log
+seed-e034,2025-03-24,lift,Bench press,1,225,lb,higher,,coach log
+seed-e045,2025-07-28,lift,Bench press,5,205,lb,higher,,coach log
+seed-e046,2025-09-18,lift,Bench press,5,185,lb,higher,Injured leg,coach log
+seed-e049,,lift,Clean & jerk,1,240,lb,higher,"Long-standing reference max, date unknown",coach log
+seed-e032,2025-02-26,lift,Clean & jerk,1,225,lb,higher,,coach log
+seed-e036,2025-03-28,lift,Clean & jerk,1,235,lb,higher,Missed jerk at 245,coach log
+seed-e048,,lift,Deadlift,1,475,lb,higher,2023 Wodify max,coach log
+seed-e006,2024-12-04,lift,Deadlift,1,365,lb,higher,Heavier than expected,coach log
+seed-e010,2024-12-11,lift,Deadlift,3,365,lb,higher,,coach log
+seed-e012,2024-12-18,lift,Deadlift,5,335,lb,higher,,coach log
+seed-e014,2025-01-08,lift,Deadlift,1,365,lb,higher,,coach log
+seed-e017,2025-01-10,lift,Deadlift,3,365,lb,higher,,coach log
+seed-e030,2025-02-11,lift,Deadlift,5,335,lb,higher,,coach log
+seed-e031,2025-02-19,lift,Deadlift,1,345,lb,higher,,coach log
+seed-e039,2025-03-31,lift,Deadlift,1,385,lb,higher,Wodify max 475 (2023),coach log
+seed-e040,2025-04-10,lift,Deadlift,5,315,lb,higher,,coach log
+seed-e042,2025-04-23,lift,Deadlift,3,405,lb,higher,RPE 9-9.5,coach log
+seed-e003,2024-11-05,lift,Front squat,5,245,lb,higher,Coach: 5-10 lb left,coach log
+seed-e023,2025-01-28,lift,Front squat,1,290,lb,higher,PR (+15),coach log
+seed-e044,2025-07-15,lift,Front squat,5,265,lb,higher,,coach log
+seed-e027,2025-01-31,lift,Power clean,1,225,lb,higher,,coach log
+seed-e021,2025-01-27,lift,Power snatch,1,175,lb,higher,Several misses at 165,coach log
+seed-e019,2025-01-15,lift,Push jerk,1,195,lb,higher,,coach log
+seed-e024,2025-01-29,lift,Push jerk,2,195,lb,higher,,coach log
+seed-e028,2025-02-05,lift,Push jerk,3,195,lb,higher,,coach log
+seed-e001,2024-09-20,lift,Snatch,1,175,lb,higher,This was my 1RM a year ago,coach log
+seed-e007,2024-12-05,lift,Snatch,5,155,lb,higher,,coach log
+seed-e015,2025-01-09,lift,Snatch,5,155,lb,higher,Failed 160 x3,coach log
+seed-e025,2025-01-30,lift,Snatch,5,160,lb,higher,PR (was 155),coach log
+seed-e033,2025-03-12,lift,Snatch,1,185,lb,higher,~97%,coach log
+seed-e035,2025-03-25,lift,Snatch,1,195,lb,higher,5 lb PR,coach log
+seed-e008,2024-12-05,lift,Squat clean,5,205,lb,higher,,coach log
+seed-e016,2025-01-09,lift,Squat clean,5,215,lb,higher,PR (was 205),coach log
+seed-e026,2025-01-30,lift,Squat clean,5,215,lb,higher,Missed 225 on rep 4 (215 from 1/9),coach log
+seed-e029,2025-02-07,lift,Squat clean,1,240,lb,higher,,coach log
+seed-e043,2025-06-02,lift,Squat clean,1,235,lb,higher,,coach log
+seed-e038,2025-03-31,lift,Strict press,1,145,lb,higher,ref 1RM 155,coach log
+seed-e041,2025-04-10,lift,Strict press,5,115,lb,higher,,coach log
+seed-e086,2025-04-22,skill,Freestanding handstand hold,,10,sec,higher,Approximate,coach log
+seed-e084,2025-02-18,skill,Max UB handstand walk,,23,ft,higher,,coach log
+seed-e085,2025-04-22,skill,Max UB handstand walk,,40,ft,higher,Approximate,coach log
+seed-e083,2025-03-28,skill,Max UB kipping HSPU,,26,reps,higher,,coach log
+seed-e082,2024-09-04,skill,Max UB pull-ups,,32,reps,higher,22 butterfly + 10 kipping,coach log
+seed-e080,2024-09-04,skill,Max UB toes-to-bar,,22,reps,higher,,coach log
+seed-e081,2024-11-11,skill,Max UB toes-to-bar,,31,reps,higher,,coach log
+seed-e087,2025-06-12,skill,Seated box jump,,46,in,higher,,coach log
