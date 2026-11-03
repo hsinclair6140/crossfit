@@ -1186,5 +1186,17 @@
   "source": "Heath",
   "unit": "lb",
   "id": "e-2026-11-03-bench5"
+ },
+ {
+  "better": "higher",
+  "date": "2026-11-03",
+  "kind": "lift",
+  "movement": "Clean and jerk",
+  "note": "Squat clean + split jerk, wider grip; first heavy single after surgery; 2026 Cycle 1 working max",
+  "rm": 1,
+  "score": 220,
+  "source": "Heath",
+  "unit": "lb",
+  "id": "e-2026-11-03-cj1"
  }
 ]
