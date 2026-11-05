@@ -1198,5 +1198,17 @@
   "source": "Heath",
   "unit": "lb",
   "id": "e-2026-11-03-cj1"
+ },
+ {
+  "better": "lower",
+  "date": "2026-11-05",
+  "kind": "benchmark",
+  "movement": "Ab Szn",
+  "note": "7 RFT: 15 GHDSU / 5 wall walks / 200m run, 21:00 cap. JAK 2026 Cycle 1 baseline retest. Planned 18:05. Did only 4 WW in R3. Even pace; WW slow early, GHDSU deliberately paced, run felt taxing.",
+  "rm": null,
+  "score": 1191,
+  "source": "Heath",
+  "unit": "seconds",
+  "id": "e-2026-11-05-abszn"
  }
 ]
