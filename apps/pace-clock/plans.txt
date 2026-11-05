@@ -1,6 +1,31 @@
 # Live plans for the Pace Clock. Separate plans with a line of ---. The first plan loads by default.
 # Editing this file updates the clock within seconds; no Pages rebuild needed.
 ---
+# Ab Szn · 7 RFT · 18:05
+cap 21:00
+goal 18:05
+0:45  R1  15 GHDSU // smooth, touch and go
+1:35  R1  5 Wall Walks // chest to wall, no rush
+2:35  R1  200m Run // steady, not a sprint
+3:20  R2  15 GHDSU
+4:10  R2  5 Wall Walks
+5:10  R2  200m Run
+5:55  R3  15 GHDSU
+6:45  R3  5 Wall Walks
+7:45  R3  200m Run
+8:30  R4  15 GHDSU // halfway, hold 2:35
+9:20  R4  5 Wall Walks
+10:20  R4  200m Run
+11:05  R5  15 GHDSU
+11:55  R5  5 Wall Walks
+12:55  R5  200m Run
+13:40  R6  15 GHDSU
+14:30  R6  5 Wall Walks
+15:30  R6  200m Run // push from here
+16:15  R7  15 GHDSU
+17:05  R7  5 Wall Walks
+18:05  R7  200m Run // empty the tank
+---
 # FOTC Wk5 · For Time 6:05
 cap 12:00
 goal 6:05
