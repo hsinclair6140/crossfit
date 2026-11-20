@@ -20,5 +20,8 @@ New helper apps go in their own folder under `apps/`.
 - `data/pr-board/efforts.csv|json` — export of the PR Board artifact's `efforts` collection.
 - `data/pace-sheet/paces.csv|json` — export of the Pace Sheet artifact's `paces` collection
   (expected pace per movement at easy / moderate / hard / sprint).
+- `data/movements/` — the movement database: `movements.csv` (movement ids and aliases) and
+  `coach-comments.csv` (every coach comment from the Drive workout videos, tied to its movement, date
+  and video). Filled daily by the video-cleanup scheduled task before old videos are trashed. See its README.
 
 The artifacts are what Heath uses at the gym; this folder is the permanent, versioned copy.

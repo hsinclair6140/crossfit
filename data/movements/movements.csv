@@ -1,0 +1,42 @@
+id,name,aliases,category,pace_sheet_id
+snatch,Snatch (squat),snatch|squat snatch|pause snatch|snatch w/ pause|snatch emom,Weightlifting,
+power-snatch,Power snatch,power snatch,Weightlifting,
+press-in-snatch,Press in snatch,press in snatch|snatch press|pressing snatch balance,Weightlifting,
+overhead-squat,Overhead squat,ohs|overhead squat,Weightlifting,
+clean-and-jerk,Clean and jerk,c&j|clean & jerk|squat clean & split jerk|squat clean and split jerk|squat clean + split jerk,Weightlifting,
+power-clean,Power clean,power clean|power cleans,Weightlifting,
+back-squat,Back squat,back squat|pause back squat|bs,Strength,
+front-squat,Front squat,front squat|fs,Strength,
+deadlift,Deadlift,deadlift|dl|conventional deadlift,Strength,
+deficit-deadlift,Deficit deadlift,deficit deadlift|deficit dl|deficit sumo deadlift|dls with deficits,Strength,
+bench-press,Bench press,bench|bench press|db bench,Strength,
+strict-press,Strict press,strict press|shoulder press|strict press from forehead|strict shoulder press,Strength,
+seated-db-vertical-jump,Seated DB vertical jump,seated db vert jumps|vertical jumps,Strength,
+front-rack-lunge,Front rack walking lunge,front rack walking lunges|lunges,Strength,
+kettlebell-swing,Kettlebell swing,kbs|kb swing|kettlebell swings,Barbell & ball,
+wall-ball,Wall ball,wall ball|wall balls|wb,Barbell & ball,wall-ball
+thruster,Thruster,thruster|db thruster|double db thrusters,Barbell & ball,thruster-95
+devils-press,Devil's press,devil's press|devils press,Barbell & ball,
+pull-up,Pull-up (kipping),pull-up|pullup|kipping pull-up,Gymnastics,pull-up
+butterfly-pull-up,Butterfly pull-up,butterfly pull-ups|butterfly pullups|ub butterfly pullups,Gymnastics,pull-up
+kip-swing,Kip swing,kip swings|perfect kip swings|small circles,Gymnastics,
+chest-to-bar,Chest-to-bar pull-up (kipping),c2b|ctb|chest to bar|chest-to-bar,Gymnastics,
+butterfly-c2b,Butterfly chest-to-bar pull-up,butterfly c2b|butterfly ctb|butterfly ctb pullups|chest to bar butterfly pull-ups,Gymnastics,
+toes-to-bar,Toes-to-bar,t2b|ttb|toes to bar,Gymnastics,toes-to-bar
+ring-muscle-up,Ring muscle-up,rmu|ring muscle-up|ring muscle ups,Gymnastics,
+bar-muscle-up,Bar muscle-up,bmu|bar muscle-up|bar muscle ups,Gymnastics,
+ring-dip,Ring dip,ring dips|strict ring dips|weighted strict ring dips,Gymnastics,
+ring-support-hold,Ring support hold,top support hold|bottom support hold,Gymnastics,
+strict-hspu,Strict handstand push-up,shspu|strict hspu|strict handstand push-ups,Gymnastics,
+kipping-hspu,Kipping handstand push-up,khspu|kipping hspu|hspu,Gymnastics,
+handstand-walk,Handstand walk,hsw|handstand walk,Gymnastics,
+wall-walk,Wall walk,wall walks,Gymnastics,
+ghd-sit-up,GHD sit-up,ghdsu|ghd sit-ups,Gymnastics,
+ghd-hip-extension,GHD hip extension,ghd hip extensions,Gymnastics,
+box-jump-over,Box jump over,bjo|box jump overs,Gymnastics,
+double-under,Double-under,du|double unders,Gymnastics,double-under
+burpee,Burpee,burpees|burpee broad jumps,Gymnastics,burpee
+row,Row,row|row cals|rower,Engine,row-cal
+echo-bike,Echo bike,echo bike|assault bike,Engine,echo-bike
+ski-erg,Ski erg,ski|cal ski,Engine,ski-erg
+run,Run,run|200m run,Running,run
